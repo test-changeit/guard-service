@@ -1,5 +1,24 @@
 # @alakipalaki/ergo-explorer-network
 
+## 10.0.4
+
+### Patch Changes
+
+- Update dependencies
+  - @rosen-clients/ergo-explorer@2.1.3
+
+- Update dependencies
+  - @rosen-clients/ergo-explorer@2.1.2
+
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@16.0.1
+  - @alakipalaki/ergo@14.1.0
+
 ## 10.0.3
 
 ### Patch Changes

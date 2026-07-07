@@ -1,5 +1,111 @@
 # guard-service
 
+## 10.0.0
+
+### Major Changes
+
+- The `EventReprocess` now works the trigger transaction ID instead of the event ID
+- Integrate Firo
+
+### Minor Changes
+
+- Add log level health-check parameter
+- Add submit event status functionality
+- Replace fastify with @rosen-bridge/fastify-enhanced for api functionality, Replace TypeBox with zod for validations
+- Add a new api route for validating an api key
+- Guard now stores the rejected (invalid) events in a separate table, fixing a bug that events with multiple trigger boxes were not processed if the first trigger was rejected.
+- Implement AddressEntity and address api
+- Add rate limit config for arbitrary, reprocess and signTx api routes
+- Improve the size of Docker image:
+  - improve GA for using cache while building the image
+  - improve Docker build to use cache as much as possible and do not store unneeded files in the image
+  - Add `|| true` for husky in prepare to work with `NODE_ENV=production` set before `npm ci`
+  - Move tsx from devDependencies to dependencies
+
+### Patch Changes
+
+- Use trigger tx id for tracking public status records
+- Fix circular dependency between `transactionSerializer` and `ChainHandler` modules
+- Fix circular dependency between `EventVerifier` and `EventSynchronization` modules
+- Fix `/revenue/chart` API data
+- Update dependencies
+  - @rosen-bridge/abstract-scanner@2.0.0
+  - @rosen-bridge/address-codec@2.1.0
+  - @rosen-bridge/ergo-scanner@1.1.0
+  - @rosen-bridge/evm-address-tx-extractor@2.0.5
+  - @rosen-bridge/evm-scanner@1.1.0
+  - @rosen-bridge/extended-typeorm@1.1.0
+  - @rosen-bridge/fastify-enhanced@3.2.0
+  - @rosen-bridge/scanner-interfaces@1.0.0
+  - @rosen-bridge/tokens@6.0.2
+  - @rosen-bridge/watcher-data-extractor@13.0.7
+  - @rosen-clients/rate-limited-axios@2.0.1
+
+- Update EventView and event apis to use rejected_event_entity for status calculation of api response schema
+- Update dependencies
+  - @rosen-bridge/winston-logger@3.0.1
+
+- Improve the `ColdStorage` module to ignore a chain even when it's not included in the `thresholds.json` config file
+- Integrate and initialize the `AddressManager` which is required in the new version of Rosen extractor packages (used in all chains to verify events)
+- Update dependencies
+  - @rosen-bridge/abstract-scanner@1.0.3
+  - @rosen-bridge/asset-check@6.2.1
+  - @rosen-bridge/ergo-scanner@1.0.3
+  - @rosen-bridge/evm-address-tx-extractor@2.0.3
+  - @rosen-bridge/evm-scanner@1.0.3
+  - @rosen-bridge/minimum-fee@4.0.1
+  - @rosen-bridge/node-sync-check@3.0.2
+  - @rosen-bridge/watcher-data-extractor@13.0.5
+  - @rosen-clients/rate-limited-axios@2.0.0
+
+- Add coerce to number fields in querystring schemas of api
+- Fix updating balances of an empty address, Remove outdated balance records from database
+- Implement a generic ParallelBranchProcessor class for PublicStatusHandler to process statuses of different eventIds in parallel and matching eventIds in sequence
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/firo-rpc@0.1.0
+  - @alakipalaki/ethereum@4.0.1
+  - @alakipalaki/binance@4.0.1
+  - @alakipalaki/bitcoin-runes-rpc@2.0.6
+  - @alakipalaki/doge-blockcypher@1.0.4
+  - @alakipalaki/bitcoin-esplora@5.0.4
+  - @alakipalaki/doge-esplora@2.0.4
+  - @alakipalaki/doge-rpc@1.0.4
+  - @alakipalaki/ergo-node-network@10.0.4
+  - @alakipalaki/abstract-chain@16.0.1
+  - @alakipalaki/bitcoin@10.0.1
+  - @alakipalaki/cardano@16.0.1
+  - @alakipalaki/doge@4.0.1
+  - @alakipalaki/firo@0.1.0
+  - @alakipalaki/bitcoin-runes@4.0.1
+  - @alakipalaki/ergo@14.1.0
+  - @alakipalaki/cardano-koios-network@13.0.3
+  - @alakipalaki/evm@10.0.1
+  - @alakipalaki/ergo-explorer-network@10.0.4
+  - @alakipalaki/evm-rpc@4.0.5
+  - @alakipalaki/cardano-blockfrost-network@10.0.3
+
 ## 9.1.1
 
 ### Patch Changes

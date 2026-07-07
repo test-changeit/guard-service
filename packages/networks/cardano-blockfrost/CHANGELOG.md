@@ -1,5 +1,18 @@
 # @alakipalaki/cardano-blockfrost-network
 
+## 10.0.3
+
+### Patch Changes
+
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@16.0.1
+  - @alakipalaki/cardano@16.0.1
+
 ## 10.0.2
 
 ### Patch Changes

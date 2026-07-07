@@ -1,5 +1,17 @@
 # @alakipalaki/abstract-chain
 
+## 16.0.1
+
+### Patch Changes
+
+- Update dependencies
+  - @rosen-bridge/minimum-fee@4.0.1
+  - @rosen-bridge/rosen-extractor@12.0.0
+
+- Update dependencies
+  - @rosen-bridge/rosen-extractor@12.1.0
+  - @rosen-bridge/tokens@6.0.2
+
 ## 16.0.0
 
 ### Major Changes

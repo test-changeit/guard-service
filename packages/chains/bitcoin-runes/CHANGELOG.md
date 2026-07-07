@@ -1,5 +1,27 @@
 # @alakipalaki/bitcoin-runes
 
+## 4.0.1
+
+### Patch Changes
+
+- Enable the selection class logs
+- Rename the logger name for the Rosen extractor class
+- Update dependencies
+  - @rosen-bridge/bitcoin-runes-utxo-selection@2.1.0
+  - @rosen-bridge/rosen-extractor@12.0.0
+
+- Update dependencies
+  - @rosen-bridge/rosen-extractor@12.1.0
+  - @rosen-bridge/tokens@6.0.2
+
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@16.0.1
+  - @alakipalaki/bitcoin@10.0.1
+
 ## 4.0.0
 
 ### Major Changes

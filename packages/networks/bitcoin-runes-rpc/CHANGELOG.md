@@ -1,5 +1,24 @@
 # @alakipalaki/bitcoin-runes-rpc
 
+## 2.0.6
+
+### Patch Changes
+
+- Update dependencies
+  - @rosen-clients/rate-limited-axios@2.0.1
+
+- Specify the client type
+- Update dependencies
+  - @rosen-clients/rate-limited-axios@2.0.0
+
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@16.0.1
+  - @alakipalaki/bitcoin-runes@4.0.1
+
 ## 2.0.5
 
 ### Patch Changes
