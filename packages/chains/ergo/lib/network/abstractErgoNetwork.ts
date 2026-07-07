@@ -1,6 +1,5 @@
+import { AbstractUtxoChainNetwork } from '@alakipalaki/abstract-chain';
 import { ErgoBox, ErgoStateContext, Transaction } from 'ergo-lib-wasm-nodejs';
-
-import { AbstractUtxoChainNetwork } from '@rosen-chains/abstract-chain';
 
 abstract class AbstractErgoNetwork extends AbstractUtxoChainNetwork<
   Transaction,

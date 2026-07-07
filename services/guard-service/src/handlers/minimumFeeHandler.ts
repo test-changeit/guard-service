@@ -1,3 +1,7 @@
+import { EventTrigger } from '@alakipalaki/abstract-chain';
+import { decodeRegister, ERGO_CHAIN } from '@alakipalaki/ergo';
+import { NODE_NETWORK } from '@alakipalaki/ergo-node-network';
+
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import {
   ChainMinimumFee,
@@ -6,9 +10,6 @@ import {
   MinimumFeeNodeNetwork,
 } from '@rosen-bridge/minimum-fee';
 import { TokenMap } from '@rosen-bridge/tokens';
-import { EventTrigger } from '@rosen-chains/abstract-chain';
-import { decodeRegister, ERGO_CHAIN } from '@rosen-chains/ergo';
-import { NODE_NETWORK } from '@rosen-chains/ergo-node-network';
 
 import GuardsErgoConfigs from '../configs/guardsErgoConfigs';
 import { rosenConfig } from '../configs/rosenConfig';

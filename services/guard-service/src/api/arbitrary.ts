@@ -1,6 +1,7 @@
+import { ChainUtils } from '@alakipalaki/abstract-chain';
+
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import { FastifyWithZod } from '@rosen-bridge/fastify-enhanced';
-import { ChainUtils } from '@rosen-chains/abstract-chain';
 
 import Configs from '../configs/configs';
 import DatabaseHandler from '../db/databaseHandler';

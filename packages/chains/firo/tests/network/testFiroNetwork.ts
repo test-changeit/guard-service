@@ -1,4 +1,4 @@
-import { AssetBalance } from '@rosen-chains/abstract-chain';
+import { AssetBalance } from '@alakipalaki/abstract-chain';
 
 import { AbstractFiroNetwork, FiroUtxo } from '../../lib';
 

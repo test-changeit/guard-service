@@ -1,4 +1,4 @@
-import { PaymentOrder, PaymentTransaction } from '@rosen-chains/abstract-chain';
+import { PaymentOrder, PaymentTransaction } from '@alakipalaki/abstract-chain';
 
 import ArbitraryProcessor from '../../src/arbitrary/arbitraryProcessor';
 

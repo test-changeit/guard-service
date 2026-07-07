@@ -1,13 +1,13 @@
+import {
+  ImpossibleBehavior,
+  PaymentTransaction,
+  TransactionType,
+} from '@alakipalaki/abstract-chain';
 import { Semaphore } from 'await-semaphore';
 
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import { Communicator } from '@rosen-bridge/communication';
 import { RosenDialerNode } from '@rosen-bridge/dialer';
-import {
-  ImpossibleBehavior,
-  PaymentTransaction,
-  TransactionType,
-} from '@rosen-chains/abstract-chain';
 
 import RosenDialer from '../communication/rosenDialer';
 import Configs from '../configs/configs';

@@ -1,4 +1,4 @@
-import { FailedError } from '@rosen-chains/abstract-chain';
+import { FailedError } from '@alakipalaki/abstract-chain';
 
 import {
   mockAddresses,

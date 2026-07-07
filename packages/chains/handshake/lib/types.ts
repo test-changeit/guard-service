@@ -1,7 +1,7 @@
 import {
   ChainConfigs,
   PaymentTransactionJsonModel,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 export interface HandshakeConfigs extends ChainConfigs {
   aggregatedPublicKey: string; // Aggregated public key from TSS threshold signature scheme

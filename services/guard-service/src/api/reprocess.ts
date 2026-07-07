@@ -1,6 +1,7 @@
+import { NotFoundError } from '@alakipalaki/abstract-chain';
+
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import { FastifyWithZod } from '@rosen-bridge/fastify-enhanced';
-import { NotFoundError } from '@rosen-chains/abstract-chain';
 
 import Configs from '../configs/configs';
 import EventReprocess from '../reprocess/eventReprocess';

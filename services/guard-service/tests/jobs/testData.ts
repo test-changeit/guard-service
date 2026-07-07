@@ -1,4 +1,4 @@
-import { PaymentOrder } from '@rosen-chains/abstract-chain';
+import { PaymentOrder } from '@alakipalaki/abstract-chain';
 
 import GuardsErgoConfigs from '../../src/configs/guardsErgoConfigs';
 

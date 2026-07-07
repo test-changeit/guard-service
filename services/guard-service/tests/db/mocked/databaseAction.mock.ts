@@ -1,3 +1,9 @@
+import {
+  EventTrigger,
+  PaymentTransaction,
+  TransactionType,
+} from '@alakipalaki/abstract-chain';
+
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import {
   BlockEntity,
@@ -16,11 +22,6 @@ import {
   CollateralEntity,
   migrations as watcherDataExtractorMigrations,
 } from '@rosen-bridge/watcher-data-extractor';
-import {
-  EventTrigger,
-  PaymentTransaction,
-  TransactionType,
-} from '@rosen-chains/abstract-chain';
 
 import { DatabaseAction } from '../../../src/db/databaseAction';
 import { AddressEntity } from '../../../src/db/entities/addressEntity';

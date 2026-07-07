@@ -1,7 +1,6 @@
+import { TransactionType } from '@alakipalaki/abstract-chain';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
 import { cloneDeep } from 'lodash-es';
-
-import { TransactionType } from '@rosen-chains/abstract-chain';
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
 
 import {
   AgreementMessageTypes,

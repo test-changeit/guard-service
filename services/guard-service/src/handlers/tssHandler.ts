@@ -1,3 +1,8 @@
+import {
+  EcdsaSignMediator,
+  EcdsaSignResponse,
+  EddsaSignMediator,
+} from '@alakipalaki/abstract-chain';
 import { spawn } from 'child_process';
 
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
@@ -8,11 +13,6 @@ import {
   StatusEnum,
   TssSigner,
 } from '@rosen-bridge/tss';
-import {
-  EcdsaSignMediator,
-  EcdsaSignResponse,
-  EddsaSignMediator,
-} from '@rosen-chains/abstract-chain';
 
 import RosenDialer from '../communication/rosenDialer';
 import Configs from '../configs/configs';

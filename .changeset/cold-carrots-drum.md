@@ -1,11 +1,11 @@
 ---
-'@rosen-chains/bitcoin-runes-rpc': patch
-'@rosen-chains/doge-blockcypher': patch
-'@rosen-chains/bitcoin-esplora': patch
-'@rosen-chains/handshake-rpc': patch
-'@rosen-chains/doge-esplora': patch
-'@rosen-chains/doge-rpc': patch
-'@rosen-chains/firo-rpc': patch
+'@alakipalaki/bitcoin-runes-rpc': patch
+'@alakipalaki/doge-blockcypher': patch
+'@alakipalaki/bitcoin-esplora': patch
+'@alakipalaki/handshake-rpc': patch
+'@alakipalaki/doge-esplora': patch
+'@alakipalaki/doge-rpc': patch
+'@alakipalaki/firo-rpc': patch
 ---
 
 Update dependencies

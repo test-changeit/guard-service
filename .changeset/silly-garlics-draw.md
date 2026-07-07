@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/evm-rpc': patch
+'@alakipalaki/evm-rpc': patch
 ---
 
 Update dependencies

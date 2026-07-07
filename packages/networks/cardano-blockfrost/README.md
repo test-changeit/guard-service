@@ -1,4 +1,4 @@
-# @rosen-chains/cardano-blockfrost-network
+# @alakipalaki/cardano-blockfrost-network
 
 ## Table of contents
 
@@ -7,27 +7,27 @@
 
 ## Introduction
 
-`@rosen-chains/cardano-blockfrost-network` is a package to be used as network api provider for `@rosen-chains/cardano` package
+`@alakipalaki/cardano-blockfrost-network` is a package to be used as network api provider for `@alakipalaki/cardano` package
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/cardano-blockfrost-network
+npm i @alakipalaki/cardano-blockfrost-network
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/cardano-blockfrost-network
+yarn add @alakipalaki/cardano-blockfrost-network
 ```
 
 ## Usage
 
 ```ts
-import { CardanoChain } from '@rosen-chains/cardano';
-import CardanoBlockFrostNetwork from '@rosen-chains/cardano-blockfrost-network';
+import { CardanoChain } from '@alakipalaki/cardano';
+import CardanoBlockFrostNetwork from '@alakipalaki/cardano-blockfrost-network';
 
 let tokens: RosenTokens;
 const cardanoBlockFrostNetwork = new CardanoBlockFrostNetwork(

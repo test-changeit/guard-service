@@ -1,8 +1,7 @@
+import { CARDANO_CHAIN, CardanoConfigs } from '@alakipalaki/cardano';
+import { BLOCKFROST_NETWORK } from '@alakipalaki/cardano-blockfrost-network';
+import { KOIOS_NETWORK } from '@alakipalaki/cardano-koios-network';
 import config from 'config';
-
-import { CARDANO_CHAIN, CardanoConfigs } from '@rosen-chains/cardano';
-import { BLOCKFROST_NETWORK } from '@rosen-chains/cardano-blockfrost-network';
-import { KOIOS_NETWORK } from '@rosen-chains/cardano-koios-network';
 
 import { getChainNetworkName, getConfigIntKeyOrDefault } from './configs';
 import { rosenConfig } from './rosenConfig';

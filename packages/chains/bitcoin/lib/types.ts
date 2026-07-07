@@ -1,7 +1,7 @@
 import {
   ChainConfigs,
   PaymentTransactionJsonModel,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 export interface BitcoinConfigs extends ChainConfigs {
   aggregatedPublicKey: string;

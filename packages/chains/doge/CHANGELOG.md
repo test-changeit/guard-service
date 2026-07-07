@@ -1,4 +1,4 @@
-# @rosen-chains/doge
+# @alakipalaki/doge
 
 ## 4.0.0
 
@@ -15,14 +15,14 @@
   - @rosen-bridge/bitcoin-utxo-selection@2.0.3
   - @rosen-bridge/rosen-extractor@11.3.0
   - @rosen-bridge/tokens@6.0.0
-  - @rosen-chains/abstract-chain@16.0.0
+  - @alakipalaki/abstract-chain@16.0.0
 
 ## 3.0.2
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@15.0.2
+  - @alakipalaki/abstract-chain@15.0.2
 
 ## 3.0.1
 
@@ -30,7 +30,7 @@
 
 - Update dependencies
   - @rosen-bridge/rosen-extractor@11.0.0
-  - @rosen-chains/abstract-chain@15.0.1
+  - @alakipalaki/abstract-chain@15.0.1
 
 ## 3.0.0
 
@@ -49,7 +49,7 @@
   - @rosen-bridge/json-bigint@1.1.0
   - @rosen-bridge/rosen-extractor@10.1.1
   - @rosen-bridge/tokens@4.0.1
-  - @rosen-chains/abstract-chain@15.0.0
+  - @alakipalaki/abstract-chain@15.0.0
 
 ## 2.2.1
 
@@ -58,7 +58,7 @@
 - Update box-selection packages
 - Update Rosen utility packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.1
+  - @alakipalaki/abstract-chain@14.0.1
 
 ## 2.2.0
 
@@ -72,7 +72,7 @@
 - Update `@rosen-bridge/rosen-extractor`, `@rosen-bridge/tokens` and `@rosen-bridge/minimum-fee` packages to their latest version
 - Update box-selection packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.0
+  - @alakipalaki/abstract-chain@14.0.0
 
 ## 2.1.1
 
@@ -101,7 +101,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.1.0
+  - @alakipalaki/abstract-chain@13.1.0
 
 ## 1.0.0
 
@@ -112,4 +112,4 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.0.0
+  - @alakipalaki/abstract-chain@13.0.0

@@ -1,4 +1,4 @@
-# @rosen-chains/bitcoin
+# @alakipalaki/bitcoin
 
 ## 10.0.0
 
@@ -15,14 +15,14 @@
   - @rosen-bridge/bitcoin-utxo-selection@2.0.3
   - @rosen-bridge/rosen-extractor@11.3.0
   - @rosen-bridge/tokens@6.0.0
-  - @rosen-chains/abstract-chain@16.0.0
+  - @alakipalaki/abstract-chain@16.0.0
 
 ## 9.0.2
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@15.0.2
+  - @alakipalaki/abstract-chain@15.0.2
 
 ## 9.0.1
 
@@ -30,7 +30,7 @@
 
 - Update dependencies
   - @rosen-bridge/rosen-extractor@11.0.0
-  - @rosen-chains/abstract-chain@15.0.1
+  - @alakipalaki/abstract-chain@15.0.1
 
 ## 9.0.0
 
@@ -49,7 +49,7 @@
   - @rosen-bridge/json-bigint@1.1.0
   - @rosen-bridge/rosen-extractor@10.1.1
   - @rosen-bridge/tokens@4.0.1
-  - @rosen-chains/abstract-chain@15.0.0
+  - @alakipalaki/abstract-chain@15.0.0
 
 ## 8.1.1
 
@@ -58,7 +58,7 @@
 - Update box-selection packages
 - Update Rosen utility packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.1
+  - @alakipalaki/abstract-chain@14.0.1
 
 ## 8.1.0
 
@@ -73,14 +73,14 @@
 - Update `@rosen-bridge/rosen-extractor`, `@rosen-bridge/tokens` and `@rosen-bridge/minimum-fee` packages to their latest version
 - Update box-selection packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.0
+  - @alakipalaki/abstract-chain@14.0.0
 
 ## 8.0.1
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.1.0
+  - @alakipalaki/abstract-chain@13.1.0
 
 ## 8.0.0
 
@@ -91,7 +91,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.0.0
+  - @alakipalaki/abstract-chain@13.0.0
 
 ## 7.0.0
 
@@ -102,7 +102,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@12.0.0
+  - @alakipalaki/abstract-chain@12.0.0
 
 ## 6.1.3
 
@@ -110,14 +110,14 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.3
+  - @alakipalaki/abstract-chain@11.0.3
 
 ## 6.1.2
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.2
+  - @alakipalaki/abstract-chain@11.0.2
 
 ## 6.1.1
 
@@ -125,7 +125,7 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.1
+  - @alakipalaki/abstract-chain@11.0.1
 
 ## 6.1.0
 
@@ -136,7 +136,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.0
+  - @alakipalaki/abstract-chain@11.0.0
 
 ## 6.0.0
 
@@ -151,7 +151,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@10.0.0
+  - @alakipalaki/abstract-chain@10.0.0
 
 ## 5.1.0
 
@@ -167,7 +167,7 @@
 - Improve logs
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@9.0.2
+  - @alakipalaki/abstract-chain@9.0.2
 
 ## 5.0.1
 
@@ -175,7 +175,7 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@9.0.1
+  - @alakipalaki/abstract-chain@9.0.1
 
 ## 5.0.0
 
@@ -187,7 +187,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@9.0.0
+  - @alakipalaki/abstract-chain@9.0.0
 
 ## 4.0.0
 
@@ -201,7 +201,7 @@
 - Export bitcoin native token id var
 - Add NATIVE_TOKEN_ID variable to BitcoinChain
 - Update dependencies
-  - @rosen-chains/abstract-chain@8.0.0
+  - @alakipalaki/abstract-chain@8.0.0
 
 ## 3.0.1
 
@@ -209,7 +209,7 @@
 
 - Update rosen-extractor
 - Update dependencies
-  - @rosen-chains/abstract-chain@7.0.2
+  - @alakipalaki/abstract-chain@7.0.2
 
 ## 3.0.0
 
@@ -220,7 +220,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@7.0.1
+  - @alakipalaki/abstract-chain@7.0.1
 
 ## 2.0.0
 
@@ -231,7 +231,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@7.0.0
+  - @alakipalaki/abstract-chain@7.0.0
 
 ## 1.0.0
 
@@ -248,4 +248,4 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@6.0.0
+  - @alakipalaki/abstract-chain@6.0.0

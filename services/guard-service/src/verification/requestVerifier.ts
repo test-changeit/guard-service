@@ -1,9 +1,10 @@
-import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import {
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
+
+import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 
 import { DatabaseAction } from '../db/databaseAction';
 import EventSerializer from '../event/eventSerializer';

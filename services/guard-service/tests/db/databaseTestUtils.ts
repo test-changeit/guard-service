@@ -1,5 +1,5 @@
-import { EventTrigger, TransactionType } from '@rosen-chains/abstract-chain';
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
+import { EventTrigger, TransactionType } from '@alakipalaki/abstract-chain';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
 
 import { DatabaseAction } from '../../src/db/databaseAction';
 import { EventStatus, RevenueType } from '../../src/utils/constants';

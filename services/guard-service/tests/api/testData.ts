@@ -1,7 +1,8 @@
+import { BITCOIN_CHAIN, BTC } from '@alakipalaki/bitcoin';
+import { ADA, CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { ERG, ERGO_CHAIN } from '@alakipalaki/ergo';
+
 import { HealthStatusLevel } from '@rosen-bridge/health-check';
-import { BITCOIN_CHAIN, BTC } from '@rosen-chains/bitcoin';
-import { ADA, CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { ERG, ERGO_CHAIN } from '@rosen-chains/ergo';
 
 import GuardsBitcoinConfigs from '../../src/configs/guardsBitcoinConfigs';
 import GuardsCardanoConfigs from '../../src/configs/guardsCardanoConfigs';

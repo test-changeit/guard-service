@@ -1,6 +1,5 @@
+import { CardanoTx, CardanoUtxo } from '@alakipalaki/cardano';
 import { components } from '@blockfrost/openapi';
-
-import { CardanoTx, CardanoUtxo } from '@rosen-chains/cardano';
 
 export const blockHeight = 9511863;
 export const absoluteSlot = 107701834;

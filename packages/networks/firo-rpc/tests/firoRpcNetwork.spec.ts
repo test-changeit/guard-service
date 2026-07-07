@@ -1,11 +1,10 @@
-import { vi, describe, it, expect, beforeEach } from 'vitest';
-
 import {
   FailedError,
   NetworkError,
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import { vi, describe, it, expect, beforeEach } from 'vitest';
 
 import FiroRpcNetwork from '../lib/firoRpcNetwork';
 import { resetAxiosMock, axiosInstance } from './mocked/rateLimitedAxios.mock';

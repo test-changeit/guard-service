@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/firo-rpc': minor
+'@alakipalaki/firo-rpc': minor
 ---
 
 Initialize the package

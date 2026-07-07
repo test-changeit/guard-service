@@ -1,7 +1,7 @@
+import { EventTrigger } from '@alakipalaki/abstract-chain';
 import { blake2b } from 'blakejs';
 
 import { EventTriggerEntity } from '@rosen-bridge/watcher-data-extractor';
-import { EventTrigger } from '@rosen-chains/abstract-chain';
 
 import { ConfirmedEventEntity } from '../db/entities/confirmedEventEntity';
 

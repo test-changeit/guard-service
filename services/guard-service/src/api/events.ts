@@ -1,5 +1,6 @@
+import { TransactionType } from '@alakipalaki/abstract-chain';
+
 import { FastifyWithZod } from '@rosen-bridge/fastify-enhanced';
-import { TransactionType } from '@rosen-chains/abstract-chain';
 
 import { DatabaseAction } from '../db/databaseAction';
 import { Event, OngoingEvents, TokenData } from '../types/api';

@@ -1,8 +1,8 @@
+import { EddsaSignMediator } from '@alakipalaki/abstract-chain';
 import * as CardanoWasm from '@emurgo/cardano-serialization-lib-nodejs';
 import { randomBytes } from 'crypto';
 
 import { TokenMap } from '@rosen-bridge/tokens';
-import { EddsaSignMediator } from '@rosen-chains/abstract-chain';
 
 import { CardanoChain } from '../lib';
 import CardanoUtils from '../lib/cardanoUtils';

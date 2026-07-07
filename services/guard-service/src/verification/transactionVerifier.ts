@@ -1,7 +1,3 @@
-import { isEqual } from 'lodash-es';
-
-import { DefaultLogger } from '@rosen-bridge/abstract-logger';
-import JsonBigInt from '@rosen-bridge/json-bigint';
 import {
   ChainUtils,
   EventTrigger,
@@ -10,7 +6,11 @@ import {
   PaymentTransaction,
   SigningStatus,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import { isEqual } from 'lodash-es';
+
+import { DefaultLogger } from '@rosen-bridge/abstract-logger';
+import JsonBigInt from '@rosen-bridge/json-bigint';
 
 import Configs from '../configs/configs';
 import { DatabaseAction } from '../db/databaseAction';

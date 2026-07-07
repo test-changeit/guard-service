@@ -1,12 +1,13 @@
-import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import {
   ChainUtils,
   NotEnoughAssetsError,
   PaymentOrder,
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { ERGO_CHAIN, ErgoChain } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { ERGO_CHAIN, ErgoChain } from '@alakipalaki/ergo';
+
+import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 
 import TxAgreement from '../agreement/txAgreement';
 import Configs from '../configs/configs';

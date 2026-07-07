@@ -1,10 +1,9 @@
-import * as CardanoWasm from '@emurgo/cardano-serialization-lib-nodejs';
-
 import {
   AssetBalance,
   ChainUtils,
   TokenInfo,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import * as CardanoWasm from '@emurgo/cardano-serialization-lib-nodejs';
 
 import {
   CardanoUtxo,

@@ -1,6 +1,5 @@
+import { PaymentTransaction } from '@alakipalaki/abstract-chain';
 import { Mock } from 'vitest';
-
-import { PaymentTransaction } from '@rosen-chains/abstract-chain';
 
 import TxAgreement from '../../../src/agreement/txAgreement';
 

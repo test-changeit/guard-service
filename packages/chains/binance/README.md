@@ -1,4 +1,4 @@
-# @rosen-chains/binance
+# @alakipalaki/binance
 
 ## Table of contents
 
@@ -14,11 +14,11 @@ this project contains binance chain for Rosen-bridge
 npm:
 
 ```sh
-npm i @rosen-chains/binance
+npm i @alakipalaki/binance
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/binance
+yarn add @alakipalaki/binance
 ```

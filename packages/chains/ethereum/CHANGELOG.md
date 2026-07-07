@@ -1,4 +1,4 @@
-# @rosen-chains/ethereum
+# @alakipalaki/ethereum
 
 ## 4.0.0
 
@@ -12,23 +12,23 @@
 - Update dependencies
   - @rosen-bridge/abstract-logger@4.0.0
   - @rosen-bridge/tokens@6.0.0
-  - @rosen-chains/evm@10.0.0
+  - @alakipalaki/evm@10.0.0
 
 ## 3.0.2
 
 ### Patch Changes
 
-- Remove dependency @rosen-chains/abstract-chain
+- Remove dependency @alakipalaki/abstract-chain
 - Update dependencies
-  - @rosen-chains/evm@9.0.2
+  - @alakipalaki/evm@9.0.2
 
 ## 3.0.1
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@15.0.1
-  - @rosen-chains/evm@9.0.1
+  - @alakipalaki/abstract-chain@15.0.1
+  - @alakipalaki/evm@9.0.1
 
 ## 3.0.0
 
@@ -43,8 +43,8 @@
 - Update dependencies
   - @rosen-bridge/abstract-logger@3.0.1
   - @rosen-bridge/tokens@4.0.1
-  - @rosen-chains/abstract-chain@15.0.0
-  - @rosen-chains/evm@9.0.0
+  - @alakipalaki/abstract-chain@15.0.0
+  - @alakipalaki/evm@9.0.0
 
 ## 2.1.1
 
@@ -52,8 +52,8 @@
 
 - Update Rosen utility packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.1
-  - @rosen-chains/evm@8.2.1
+  - @alakipalaki/abstract-chain@14.0.1
+  - @alakipalaki/evm@8.2.1
 
 ## 2.1.0
 
@@ -65,16 +65,16 @@
 
 - Update `@rosen-bridge/rosen-extractor`, `@rosen-bridge/tokens` and `@rosen-bridge/minimum-fee` packages to their latest version
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.0
-  - @rosen-chains/evm@8.2.0
+  - @alakipalaki/abstract-chain@14.0.0
+  - @alakipalaki/evm@8.2.0
 
 ## 2.0.1
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.1.0
-  - @rosen-chains/evm@8.1.0
+  - @alakipalaki/abstract-chain@13.1.0
+  - @alakipalaki/evm@8.1.0
 
 ## 2.0.0
 
@@ -85,8 +85,8 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.0.0
-  - @rosen-chains/evm@8.0.0
+  - @alakipalaki/abstract-chain@13.0.0
+  - @alakipalaki/evm@8.0.0
 
 ## 1.0.0
 
@@ -98,32 +98,32 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@12.0.0
-  - @rosen-chains/evm@7.0.0
+  - @alakipalaki/abstract-chain@12.0.0
+  - @alakipalaki/evm@7.0.0
 
 ## 0.2.3
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.3
-  - @rosen-chains/evm@6.0.1
+  - @alakipalaki/abstract-chain@11.0.3
+  - @alakipalaki/evm@6.0.1
 
 ## 0.2.2
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/evm@6.0.0
-  - @rosen-chains/abstract-chain@11.0.2
+  - @alakipalaki/evm@6.0.0
+  - @alakipalaki/abstract-chain@11.0.2
 
 ## 0.2.1
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.1
-  - @rosen-chains/evm@5.1.1
+  - @alakipalaki/abstract-chain@11.0.1
+  - @alakipalaki/evm@5.1.1
 
 ## 0.2.0
 
@@ -134,16 +134,16 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.0
-  - @rosen-chains/evm@5.1.0
+  - @alakipalaki/abstract-chain@11.0.0
+  - @alakipalaki/evm@5.1.0
 
 ## 0.1.10
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@10.0.0
-  - @rosen-chains/evm@5.0.0
+  - @alakipalaki/abstract-chain@10.0.0
+  - @alakipalaki/evm@5.0.0
 
 ## 0.1.9
 
@@ -152,43 +152,43 @@
 - Export chain ID
 - Fix EthereumChain export
 - Update dependencies
-  - @rosen-chains/evm@4.1.2
+  - @alakipalaki/evm@4.1.2
 
 ## 0.1.8
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/evm@4.1.1
+  - @alakipalaki/evm@4.1.1
 
 ## 0.1.7
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/evm@4.1.0
+  - @alakipalaki/evm@4.1.0
 
 ## 0.1.6
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/evm@4.0.2
-  - @rosen-chains/abstract-chain@9.0.2
+  - @alakipalaki/evm@4.0.2
+  - @alakipalaki/abstract-chain@9.0.2
 
 ## 0.1.5
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/evm@4.0.1
+  - @alakipalaki/evm@4.0.1
 
 ## 0.1.4
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/evm@4.0.0
+  - @alakipalaki/evm@4.0.0
 
 ## 0.1.3
 
@@ -196,15 +196,15 @@
 
 - Fix extractor initialization
 - Update dependencies
-  - @rosen-chains/evm@3.0.0
-  - @rosen-chains/abstract-chain@9.0.1
+  - @alakipalaki/evm@3.0.0
+  - @alakipalaki/abstract-chain@9.0.1
 
 ## 0.1.2
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/evm@2.0.1
+  - @alakipalaki/evm@2.0.1
 
 ## 0.1.1
 

@@ -1,7 +1,7 @@
 {
-  "name": "@rosen-chains/handshake-rpc",
+  "name": "@alakipalaki/handshake-rpc",
   "version": "0.0.0",
-  "description": "A package to be used as network api provider for @rosen-chains/handshake package using RPC API",
+  "description": "A package to be used as network api provider for @alakipalaki/handshake package using RPC API",
   "keywords": [
     "rosen"
   ],
@@ -34,8 +34,8 @@
   "dependencies": {
     "@rosen-bridge/abstract-logger": "^4.0.0",
     "@rosen-bridge/json-bigint": "^1.1.0",
-    "@rosen-chains/abstract-chain": "^16.0.0",
-    "@rosen-chains/handshake": "^0.0.0",
+    "@alakipalaki/abstract-chain": "^16.0.0",
+    "@alakipalaki/handshake": "^0.0.0",
     "@rosen-clients/rate-limited-axios": "^2.0.1",
     "hsd": "^8.0.0"
   },

@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/abstract-chain",
+  "name": "@alakipalaki/abstract-chain",
   "version": "16.0.0",
   "description": "this project contains abstract classes to implement any chain for Rosen-bridge",
   "keywords": [

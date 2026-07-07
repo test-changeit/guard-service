@@ -1,14 +1,15 @@
-import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import {
   AbstractChain,
   ConfirmationStatus,
   ImpossibleBehavior,
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { SigningStatus } from '@rosen-chains/abstract-chain';
-import { DOGE_CHAIN } from '@rosen-chains/doge';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { SigningStatus } from '@alakipalaki/abstract-chain';
+import { DOGE_CHAIN } from '@alakipalaki/doge';
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
+
+import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 
 import GuardsDogeConfigs from '../configs/guardsDogeConfigs';
 import { DatabaseAction } from '../db/databaseAction';

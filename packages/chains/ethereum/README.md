@@ -1,4 +1,4 @@
-# @rosen-chains/ethereum
+# @alakipalaki/ethereum
 
 ## Table of contents
 
@@ -14,11 +14,11 @@ this project contains ethereum chain for Rosen-bridge
 npm:
 
 ```sh
-npm i @rosen-chains/ethereum
+npm i @alakipalaki/ethereum
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/ethereum
+yarn add @alakipalaki/ethereum
 ```

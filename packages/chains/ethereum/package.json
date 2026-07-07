@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-chains/ethereum",
+  "name": "@alakipalaki/ethereum",
   "version": "4.0.0",
   "description": "this project contains ethereum chain for Rosen-bridge",
   "keywords": [
@@ -32,7 +32,7 @@
   "dependencies": {
     "@rosen-bridge/abstract-logger": "^4.0.0",
     "@rosen-bridge/tokens": "^6.0.2",
-    "@rosen-chains/evm": "^10.0.0"
+    "@alakipalaki/evm": "^10.0.0"
   },
   "engines": {
     "node": ">=22.18.0",

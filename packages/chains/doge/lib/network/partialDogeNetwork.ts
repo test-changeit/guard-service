@@ -1,7 +1,7 @@
+import { AssetBalance, BlockInfo } from '@alakipalaki/abstract-chain';
 import { Psbt } from 'bitcoinjs-lib';
 
 import { AbstractLogger } from '@rosen-bridge/abstract-logger';
-import { AssetBalance, BlockInfo } from '@rosen-chains/abstract-chain';
 
 import { DogeTx, DogeUtxo } from '../types';
 import { DogeNetworkFunction } from '../types';

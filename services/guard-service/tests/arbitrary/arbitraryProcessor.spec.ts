@@ -1,11 +1,10 @@
-import { MockInstance } from 'vitest';
-
 import {
   NotEnoughAssetsError,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { ErgoTransaction, ERGO_CHAIN } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { ErgoTransaction, ERGO_CHAIN } from '@alakipalaki/ergo';
+import { MockInstance } from 'vitest';
 
 import Configs from '../../src/configs/configs';
 import { OrderStatus } from '../../src/utils/constants';

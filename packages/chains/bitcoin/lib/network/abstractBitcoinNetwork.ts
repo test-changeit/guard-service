@@ -1,9 +1,8 @@
-import { Psbt } from 'bitcoinjs-lib';
-
 import {
   AbstractUtxoChainNetwork,
   TokenDetail,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import { Psbt } from 'bitcoinjs-lib';
 
 import { BitcoinTx, BitcoinUtxo } from '../types';
 

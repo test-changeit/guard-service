@@ -1,5 +1,5 @@
-import { BITCOIN_CHAIN, BTC } from '@rosen-chains/bitcoin';
-import { ADA, CARDANO_CHAIN } from '@rosen-chains/cardano';
+import { BITCOIN_CHAIN, BTC } from '@alakipalaki/bitcoin';
+import { ADA, CARDANO_CHAIN } from '@alakipalaki/cardano';
 
 import { ChainAddressBalanceEntity } from '../../src/db/entities/chainAddressBalanceEntity';
 

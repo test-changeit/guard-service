@@ -1,26 +1,26 @@
-# @rosen-chains/doge-rpc
+# @alakipalaki/doge-rpc
 
 ## Table of contents
 
-- [@rosen-chains/doge-rpc](#rosen-chainsdoge-rpc)
+- [@alakipalaki/doge-rpc](#rosen-chainsdoge-rpc)
   - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Installation](#installation)
 
 ## Introduction
 
-A package to be used as network api provider for @rosen-chains/doge package
+A package to be used as network api provider for @alakipalaki/doge package
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/doge-rpc
+npm i @alakipalaki/doge-rpc
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/doge-rpc
+yarn add @alakipalaki/doge-rpc
 ```

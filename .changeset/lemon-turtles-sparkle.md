@@ -1,11 +1,11 @@
 ---
-'@rosen-chains/bitcoin-runes': patch
-'@rosen-chains/handshake': patch
-'@rosen-chains/bitcoin': patch
-'@rosen-chains/cardano': patch
-'@rosen-chains/doge': patch
-'@rosen-chains/ergo': patch
-'@rosen-chains/firo': patch
+'@alakipalaki/bitcoin-runes': patch
+'@alakipalaki/handshake': patch
+'@alakipalaki/bitcoin': patch
+'@alakipalaki/cardano': patch
+'@alakipalaki/doge': patch
+'@alakipalaki/ergo': patch
+'@alakipalaki/firo': patch
 ---
 
 Enable the selection class logs

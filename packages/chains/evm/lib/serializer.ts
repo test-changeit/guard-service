@@ -1,6 +1,5 @@
+import { SerializationError } from '@alakipalaki/abstract-chain';
 import { Transaction } from 'ethers';
-
-import { SerializationError } from '@rosen-chains/abstract-chain';
 
 class Serializer {
   /**

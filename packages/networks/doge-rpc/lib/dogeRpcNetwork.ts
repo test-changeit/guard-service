@@ -1,21 +1,21 @@
-import { Psbt } from 'bitcoinjs-lib';
-import { randomBytes } from 'crypto';
-
-import { AbstractLogger } from '@rosen-bridge/abstract-logger';
-import JsonBigInt from '@rosen-bridge/json-bigint';
 import {
   BlockInfo,
   FailedError,
   NetworkError,
   UnexpectedApiError,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 import {
   PartialDogeNetwork,
   DogeNetworkFunction,
   DogeTx,
   DogeUtxo,
   CONFIRMATION_TARGET,
-} from '@rosen-chains/doge';
+} from '@alakipalaki/doge';
+import { Psbt } from 'bitcoinjs-lib';
+import { randomBytes } from 'crypto';
+
+import { AbstractLogger } from '@rosen-bridge/abstract-logger';
+import JsonBigInt from '@rosen-bridge/json-bigint';
 import RateLimitedAxios, {
   Axios as RateLimitedAxiosClass,
 } from '@rosen-clients/rate-limited-axios';

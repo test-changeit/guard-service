@@ -1,11 +1,12 @@
-import { AbstractLogger } from '@rosen-bridge/abstract-logger';
-import { TokenMap } from '@rosen-bridge/tokens';
 import {
   AbstractEvmNetwork,
   EvmChain,
   EvmChainSignMediator,
   EvmConfigs,
-} from '@rosen-chains/evm';
+} from '@alakipalaki/evm';
+
+import { AbstractLogger } from '@rosen-bridge/abstract-logger';
+import { TokenMap } from '@rosen-bridge/tokens';
 
 import { ETH, ETHEREUM_CHAIN, ETHEREUM_CHAIN_ID } from './constants';
 

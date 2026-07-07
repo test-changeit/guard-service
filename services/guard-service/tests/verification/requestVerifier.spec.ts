@@ -2,8 +2,8 @@ import {
   ChainUtils,
   PaymentOrder,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
 
 import EventSerializer from '../../src/event/eventSerializer';
 import {

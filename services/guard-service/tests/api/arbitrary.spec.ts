@@ -1,7 +1,7 @@
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
 import rateLimit from '@fastify/rate-limit';
 
 import { FastifyWithZod, makeFastify } from '@rosen-bridge/fastify-enhanced';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
 
 import { arbitraryOrderRoute } from '../../src/api/arbitrary';
 import Configs from '../../src/configs/configs';

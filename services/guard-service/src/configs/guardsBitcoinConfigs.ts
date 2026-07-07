@@ -1,6 +1,5 @@
+import { BITCOIN_CHAIN, BitcoinConfigs } from '@alakipalaki/bitcoin';
 import config from 'config';
-
-import { BITCOIN_CHAIN, BitcoinConfigs } from '@rosen-chains/bitcoin';
 
 import { getChainNetworkName, getConfigIntKeyOrDefault } from './configs';
 import { rosenConfig } from './rosenConfig';

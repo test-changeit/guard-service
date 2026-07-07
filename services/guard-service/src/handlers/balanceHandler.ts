@@ -1,16 +1,16 @@
+import { BINANCE_CHAIN, BNB } from '@alakipalaki/binance';
+import { BITCOIN_CHAIN, BTC } from '@alakipalaki/bitcoin';
+import { BITCOIN_RUNES_CHAIN } from '@alakipalaki/bitcoin-runes';
+import { ADA, CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { KOIOS_NETWORK } from '@alakipalaki/cardano-koios-network';
+import { DOGE, DOGE_CHAIN } from '@alakipalaki/doge';
+import { ERG, ERGO_CHAIN } from '@alakipalaki/ergo';
+import { NODE_NETWORK } from '@alakipalaki/ergo-node-network';
+import { ETH, ETHEREUM_CHAIN } from '@alakipalaki/ethereum';
+import { FIRO, FIRO_CHAIN } from '@alakipalaki/firo';
 import { chunk } from 'lodash-es';
 
 import { RosenTokens } from '@rosen-bridge/tokens';
-import { BINANCE_CHAIN, BNB } from '@rosen-chains/binance';
-import { BITCOIN_CHAIN, BTC } from '@rosen-chains/bitcoin';
-import { BITCOIN_RUNES_CHAIN } from '@rosen-chains/bitcoin-runes';
-import { ADA, CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { KOIOS_NETWORK } from '@rosen-chains/cardano-koios-network';
-import { DOGE, DOGE_CHAIN } from '@rosen-chains/doge';
-import { ERG, ERGO_CHAIN } from '@rosen-chains/ergo';
-import { NODE_NETWORK } from '@rosen-chains/ergo-node-network';
-import { ETH, ETHEREUM_CHAIN } from '@rosen-chains/ethereum';
-import { FIRO, FIRO_CHAIN } from '@rosen-chains/firo';
 
 import Configs from '../configs/configs';
 import GuardsCardanoConfigs from '../configs/guardsCardanoConfigs';

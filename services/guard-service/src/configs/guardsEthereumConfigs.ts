@@ -1,7 +1,6 @@
+import { ETHEREUM_CHAIN } from '@alakipalaki/ethereum';
+import { EvmConfigs } from '@alakipalaki/evm';
 import config from 'config';
-
-import { ETHEREUM_CHAIN } from '@rosen-chains/ethereum';
-import { EvmConfigs } from '@rosen-chains/evm';
 
 import { getChainNetworkName, getConfigIntKeyOrDefault } from './configs';
 import { rosenConfig } from './rosenConfig';

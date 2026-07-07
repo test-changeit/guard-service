@@ -1,9 +1,10 @@
-import { RosenTokens } from '@rosen-bridge/tokens';
 import {
   AssetBalance,
   EventTrigger,
   PaymentOrder,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+
+import { RosenTokens } from '@rosen-bridge/tokens';
 
 import { CardanoTx } from '../lib';
 

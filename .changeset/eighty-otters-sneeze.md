@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/abstract-chain': patch
+'@alakipalaki/abstract-chain': patch
 ---
 
 Update dependencies

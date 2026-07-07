@@ -1,5 +1,5 @@
-import { BTC } from '@rosen-chains/bitcoin';
-import { BITCOIN_RUNES_CHAIN } from '@rosen-chains/bitcoin-runes';
+import { BTC } from '@alakipalaki/bitcoin';
+import { BITCOIN_RUNES_CHAIN } from '@alakipalaki/bitcoin-runes';
 
 import GuardsErgoConfigs from '../configs/guardsErgoConfigs';
 import { TokenHandler } from '../handlers/tokenHandler';

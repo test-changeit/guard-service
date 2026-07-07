@@ -1,4 +1,4 @@
-# @rosen-chains/doge-esplora
+# @alakipalaki/doge-esplora
 
 ## Table of contents
 
@@ -7,18 +7,18 @@
 
 ## Introduction
 
-A package to be used as network api provider for @rosen-chains/doge package
+A package to be used as network api provider for @alakipalaki/doge package
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/doge-esplora
+npm i @alakipalaki/doge-esplora
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/doge-esplora
+yarn add @alakipalaki/doge-esplora
 ```

@@ -1,12 +1,12 @@
-import { mockPaymentTransaction } from 'tests/agreement/testData';
-
-import { ChainMinimumFee } from '@rosen-bridge/minimum-fee';
 import {
   EventTrigger,
   NotEnoughAssetsError,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { ErgoTransaction } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { ErgoTransaction } from '@alakipalaki/ergo';
+import { mockPaymentTransaction } from 'tests/agreement/testData';
+
+import { ChainMinimumFee } from '@rosen-bridge/minimum-fee';
 
 import Configs from '../../src/configs/configs';
 import EventProcessor from '../../src/event/eventProcessor';

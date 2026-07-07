@@ -1,9 +1,8 @@
-import { MTX } from 'hsd';
-
 import {
   AbstractUtxoChainNetwork,
   TokenDetail,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import { MTX } from 'hsd';
 
 import { HandshakeTx, HandshakeUtxo } from '../types';
 

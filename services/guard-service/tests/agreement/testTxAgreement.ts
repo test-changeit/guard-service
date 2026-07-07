@@ -1,4 +1,4 @@
-import { PaymentTransaction } from '@rosen-chains/abstract-chain';
+import { PaymentTransaction } from '@alakipalaki/abstract-chain';
 
 import {
   ApprovedCandidate,

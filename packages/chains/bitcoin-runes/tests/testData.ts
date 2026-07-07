@@ -1,6 +1,7 @@
+import { AssetBalance, PaymentOrder } from '@alakipalaki/abstract-chain';
+
 import { BitcoinRunesUtxo } from '@rosen-bridge/bitcoin-runes-utxo-selection';
 import { RosenTokens } from '@rosen-bridge/tokens';
-import { AssetBalance, PaymentOrder } from '@rosen-chains/abstract-chain';
 
 export const lockAddress = 'bc1qkpxh7l6g7tmtnl70e6eqt4yv3y6uzsvvymjj4v';
 export const lockAddressPublicKey =

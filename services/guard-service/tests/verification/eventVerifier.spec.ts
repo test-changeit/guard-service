@@ -1,8 +1,9 @@
-import { ChainMinimumFee } from '@rosen-bridge/minimum-fee';
 import {
   ConfirmationStatus,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+
+import { ChainMinimumFee } from '@rosen-bridge/minimum-fee';
 
 import GuardsErgoConfigs from '../../src/configs/guardsErgoConfigs';
 import { ConfirmedEventEntity } from '../../src/db/entities/confirmedEventEntity';

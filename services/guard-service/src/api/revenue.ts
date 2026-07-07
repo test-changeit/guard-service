@@ -1,7 +1,7 @@
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
 import { groupBy, reduce } from 'lodash-es';
 
 import { FastifyWithZod } from '@rosen-bridge/fastify-enhanced';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
 
 import { DatabaseAction } from '../db/databaseAction';
 import { TokenChartData } from '../types/api';

@@ -1,7 +1,6 @@
+import { BINANCE_CHAIN } from '@alakipalaki/binance';
+import { EvmConfigs } from '@alakipalaki/evm';
 import config from 'config';
-
-import { BINANCE_CHAIN } from '@rosen-chains/binance';
-import { EvmConfigs } from '@rosen-chains/evm';
 
 import { getChainNetworkName, getConfigIntKeyOrDefault } from './configs';
 import { rosenConfig } from './rosenConfig';

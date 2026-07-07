@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/evm-op-stack-rpc': patch
+'@alakipalaki/evm-op-stack-rpc': patch
 ---
 
 Update dependencies

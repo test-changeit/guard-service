@@ -1,7 +1,7 @@
 import {
   ChainConfigs,
   PaymentTransactionJsonModel,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 interface CardanoConfigs extends ChainConfigs {
   minBoxValue: bigint;

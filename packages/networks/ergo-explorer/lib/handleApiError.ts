@@ -2,7 +2,7 @@ import {
   FailedError,
   NetworkError,
   UnexpectedApiError,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 interface ErrorHandler<HandlerReturnType> {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any

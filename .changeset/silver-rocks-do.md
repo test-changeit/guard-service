@@ -1,9 +1,9 @@
 ---
-'@rosen-chains/bitcoin-runes-rpc': patch
-'@rosen-chains/doge-blockcypher': patch
-'@rosen-chains/bitcoin-esplora': patch
-'@rosen-chains/doge-esplora': patch
-'@rosen-chains/doge-rpc': patch
+'@alakipalaki/bitcoin-runes-rpc': patch
+'@alakipalaki/doge-blockcypher': patch
+'@alakipalaki/bitcoin-esplora': patch
+'@alakipalaki/doge-esplora': patch
+'@alakipalaki/doge-rpc': patch
 ---
 
 Specify the client type

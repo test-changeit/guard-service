@@ -3,9 +3,9 @@ import {
   ChainUtils,
   PaymentOrder,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
 
 import EventSerializer from '../../src/event/eventSerializer';
 import { EventStatus, TransactionStatus } from '../../src/utils/constants';

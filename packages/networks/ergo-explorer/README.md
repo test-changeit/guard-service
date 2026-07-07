@@ -1,4 +1,4 @@
-# @rosen-chains/ergo-explorer-network
+# @alakipalaki/ergo-explorer-network
 
 ## Table of contents
 
@@ -8,28 +8,28 @@
 
 ## Introduction
 
-`@rosen-chains/ergo-explorer-network` is a package to be used as network api
-provider for `@rosen-chains/ergo` package.
+`@alakipalaki/ergo-explorer-network` is a package to be used as network api
+provider for `@alakipalaki/ergo` package.
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/ergo-explorer-network
+npm i @alakipalaki/ergo-explorer-network
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/ergo-explorer-network
+yarn add @alakipalaki/ergo-explorer-network
 ```
 
 ## Usage
 
 ```ts
-import { ErgoChain } from '@rosen-chains/ergo';
-import ErgoExplorerNetwork from '@rosen-chains/ergo-explorer-network';
+import { ErgoChain } from '@alakipalaki/ergo';
+import ErgoExplorerNetwork from '@alakipalaki/ergo-explorer-network';
 
 const ergoExplorerNetwork = new ErgoExplorerNetwork({
   explorerBaseUrl: 'SOME_EXPLORER_URL',

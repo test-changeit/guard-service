@@ -1,4 +1,4 @@
-# @rosen-chains/abstract-chain
+# @alakipalaki/abstract-chain
 
 ## 16.0.0
 

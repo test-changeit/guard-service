@@ -1,6 +1,3 @@
-import * as wasm from 'ergo-lib-wasm-nodejs';
-
-import { TokenMap } from '@rosen-bridge/tokens';
 import {
   BlockInfo,
   BoxInfo,
@@ -8,7 +5,10 @@ import {
   NotEnoughValidBoxesError,
   SigningStatus,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import * as wasm from 'ergo-lib-wasm-nodejs';
+
+import { TokenMap } from '@rosen-bridge/tokens';
 
 import { ErgoChain } from '../lib';
 import { ErgoConfigs } from '../lib';

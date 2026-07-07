@@ -1,8 +1,8 @@
 ---
-'@rosen-chains/bitcoin': patch
-'@rosen-chains/cardano': patch
-'@rosen-chains/doge': patch
-'@rosen-chains/firo': patch
+'@alakipalaki/bitcoin': patch
+'@alakipalaki/cardano': patch
+'@alakipalaki/doge': patch
+'@alakipalaki/firo': patch
 ---
 
 Fix mismatch between required assets and covering assets where the minimum utxo value were considered twice

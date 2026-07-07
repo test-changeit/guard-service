@@ -1,5 +1,5 @@
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { ERG } from '@rosen-chains/ergo';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { ERG } from '@alakipalaki/ergo';
 
 import GuardsCardanoConfigs from '../../src/configs/guardsCardanoConfigs';
 import { revenueJobFunction } from '../../src/jobs/revenue';

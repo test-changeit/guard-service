@@ -1,13 +1,13 @@
+import {
+  TransactionType,
+  NotEnoughAssetsError,
+  NotEnoughValidBoxesError,
+} from '@alakipalaki/abstract-chain';
 import { Psbt } from 'bitcoinjs-lib';
 import { expect, describe, it, vi } from 'vitest';
 
 import JsonBigInt from '@rosen-bridge/json-bigint';
 import { TokenMap } from '@rosen-bridge/tokens';
-import {
-  TransactionType,
-  NotEnoughAssetsError,
-  NotEnoughValidBoxesError,
-} from '@rosen-chains/abstract-chain';
 
 import { FIRO_NETWORK, FiroTransaction, FiroUtxo } from '../lib';
 import * as testData from './chainTestData';

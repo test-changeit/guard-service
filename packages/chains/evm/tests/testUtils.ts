@@ -1,8 +1,8 @@
+import { EcdsaSignMediator } from '@alakipalaki/abstract-chain';
 import { FeeData } from 'ethers';
 import { vi } from 'vitest';
 
 import { TokenMap, RosenTokens } from '@rosen-bridge/tokens';
-import { EcdsaSignMediator } from '@rosen-chains/abstract-chain';
 
 import { AbstractEvmNetwork } from '../lib';
 import EvmChain from '../lib/evmChain';

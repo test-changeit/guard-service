@@ -1,15 +1,15 @@
-import * as ergoLib from 'ergo-lib-wasm-nodejs';
-import all from 'it-all';
-
-import { AbstractLogger } from '@rosen-bridge/abstract-logger';
-import JsonBigInt from '@rosen-bridge/json-bigint';
 import {
   FailedError,
   TokenDetail,
   UNKNOWN_TOKEN,
   UnexpectedApiError,
-} from '@rosen-chains/abstract-chain';
-import { AbstractErgoNetwork } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { AbstractErgoNetwork } from '@alakipalaki/ergo';
+import * as ergoLib from 'ergo-lib-wasm-nodejs';
+import all from 'it-all';
+
+import { AbstractLogger } from '@rosen-bridge/abstract-logger';
+import JsonBigInt from '@rosen-bridge/json-bigint';
 import ergoExplorerClientFactory, {
   V0,
   V1,

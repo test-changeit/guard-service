@@ -1,3 +1,9 @@
+import {
+  ImpossibleBehavior,
+  NotFoundError,
+  PaymentTransaction,
+  TransactionType,
+} from '@alakipalaki/abstract-chain';
 import { Semaphore } from 'await-semaphore';
 import { QueryDeepPartialEntity } from 'typeorm/query-builder/QueryPartialEntity';
 
@@ -20,12 +26,6 @@ import {
   CommitmentEntity,
   EventTriggerEntity,
 } from '@rosen-bridge/watcher-data-extractor';
-import {
-  ImpossibleBehavior,
-  NotFoundError,
-  PaymentTransaction,
-  TransactionType,
-} from '@rosen-chains/abstract-chain';
 
 import PublicStatusHandler from '../handlers/publicStatusHandler';
 import { ReprocessStatus } from '../reprocess/interfaces';

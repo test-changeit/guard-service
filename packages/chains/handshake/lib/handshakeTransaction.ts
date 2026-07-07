@@ -1,7 +1,7 @@
 import {
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 import { HANDSHAKE_CHAIN } from './constants';
 import { HandshakeTransactionJsonModel } from './types';

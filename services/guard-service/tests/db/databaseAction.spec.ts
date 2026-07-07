@@ -1,6 +1,7 @@
+import { TransactionType } from '@alakipalaki/abstract-chain';
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
+
 import { EventTriggerEntity } from '@rosen-bridge/watcher-data-extractor';
-import { TransactionType } from '@rosen-chains/abstract-chain';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
 
 import { DatabaseAction } from '../../src/db/databaseAction';
 import { SortRequest } from '../../src/types/api';

@@ -1,4 +1,4 @@
-import { EventTrigger } from '@rosen-chains/abstract-chain';
+import { EventTrigger } from '@alakipalaki/abstract-chain';
 
 import { RevenueEntity } from '../../src/db/entities/revenueEntity';
 import { RevenueView } from '../../src/db/entities/revenueView';

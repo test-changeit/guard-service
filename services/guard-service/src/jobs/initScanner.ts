@@ -1,3 +1,7 @@
+import { BINANCE_CHAIN } from '@alakipalaki/binance';
+import { NODE_NETWORK } from '@alakipalaki/ergo-node-network';
+import { ETHEREUM_CHAIN } from '@alakipalaki/ethereum';
+
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import {
   ErgoExplorerNetwork,
@@ -11,9 +15,6 @@ import {
   CommitmentExtractor,
   EventTriggerExtractor,
 } from '@rosen-bridge/watcher-data-extractor';
-import { BINANCE_CHAIN } from '@rosen-chains/binance';
-import { NODE_NETWORK } from '@rosen-chains/ergo-node-network';
-import { ETHEREUM_CHAIN } from '@rosen-chains/ethereum';
 
 import Configs from '../configs/configs';
 import GuardsBinanceConfigs from '../configs/guardsBinanceConfigs';

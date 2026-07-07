@@ -1,4 +1,4 @@
-# @rosen-chains/bitcoin-esplora
+# @alakipalaki/bitcoin-esplora
 
 ## Table of contents
 
@@ -7,18 +7,18 @@
 
 ## Introduction
 
-A package to be used as network api provider for @rosen-chains/bitcoin package
+A package to be used as network api provider for @alakipalaki/bitcoin package
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/bitcoin-esplora
+npm i @alakipalaki/bitcoin-esplora
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/bitcoin-esplora
+yarn add @alakipalaki/bitcoin-esplora
 ```

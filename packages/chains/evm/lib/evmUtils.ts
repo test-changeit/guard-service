@@ -1,6 +1,5 @@
+import { PaymentOrder, SinglePayment } from '@alakipalaki/abstract-chain';
 import { Contract, Result } from 'ethers';
-
-import { PaymentOrder, SinglePayment } from '@rosen-chains/abstract-chain';
 
 import { transferABI } from './constants';
 

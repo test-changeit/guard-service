@@ -1,4 +1,4 @@
-# @rosen-chains/bitcoin-runes
+# @alakipalaki/bitcoin-runes
 
 ## Table of contents
 
@@ -14,11 +14,11 @@ This project contains Runes protocol of Bitcoin chain for Rosen-bridge
 npm:
 
 ```sh
-npm i @rosen-chains/bitcoin-runes
+npm i @alakipalaki/bitcoin-runes
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/bitcoin-runes
+yarn add @alakipalaki/bitcoin-runes
 ```

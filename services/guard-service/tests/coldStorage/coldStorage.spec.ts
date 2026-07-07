@@ -1,7 +1,7 @@
-import { AssetBalance, TransactionType } from '@rosen-chains/abstract-chain';
-import { BITCOIN_CHAIN } from '@rosen-chains/bitcoin';
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
+import { AssetBalance, TransactionType } from '@alakipalaki/abstract-chain';
+import { BITCOIN_CHAIN } from '@alakipalaki/bitcoin';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
 
 import ColdStorage from '../../src/coldStorage/coldStorage';
 import { EventStatus, TransactionStatus } from '../../src/utils/constants';

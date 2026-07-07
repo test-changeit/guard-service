@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/bitcoin-runes': patch
+'@alakipalaki/bitcoin-runes': patch
 ---
 
 Update dependencies

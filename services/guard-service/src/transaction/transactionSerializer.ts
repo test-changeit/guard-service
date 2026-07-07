@@ -2,7 +2,7 @@ import {
   AbstractChain,
   PaymentTransaction,
   PaymentTransactionJsonModel,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 /**
  * converts json string to PaymentTransaction

@@ -1,8 +1,7 @@
+import { EventTrigger } from '@alakipalaki/abstract-chain';
 import { blake2b } from 'blakejs';
 import { Buffer } from 'buffer';
 import { DerivationPath, ExtSecretKey, Mnemonic } from 'ergo-lib-wasm-nodejs';
-
-import { EventTrigger } from '@rosen-chains/abstract-chain';
 
 import { RevenuePeriod } from './constants';
 

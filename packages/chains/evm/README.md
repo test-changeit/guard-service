@@ -1,4 +1,4 @@
-# @rosen-chains/evm
+# @alakipalaki/evm
 
 ## Table of contents
 
@@ -14,11 +14,11 @@ this project contains evm chains for Rosen-bridge
 npm:
 
 ```sh
-npm i @rosen-chains/evm
+npm i @alakipalaki/evm
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/evm
+yarn add @alakipalaki/evm
 ```

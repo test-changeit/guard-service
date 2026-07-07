@@ -1,5 +1,5 @@
-import { TokenInfo } from '@rosen-chains/abstract-chain';
-import { ERGO_CHAIN } from '@rosen-chains/ergo';
+import { TokenInfo } from '@alakipalaki/abstract-chain';
+import { ERGO_CHAIN } from '@alakipalaki/ergo';
 
 import GuardsErgoConfigs from '../configs/guardsErgoConfigs';
 import { RevenueEntity } from '../db/entities/revenueEntity';

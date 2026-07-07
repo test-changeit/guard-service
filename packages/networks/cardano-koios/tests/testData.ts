@@ -1,4 +1,5 @@
-import { CardanoUtxo } from '@rosen-chains/cardano';
+import { CardanoUtxo } from '@alakipalaki/cardano';
+
 import { TxCborItem, UtxoInfos } from '@rosen-clients/cardano-koios';
 
 export const blockHeight = 8000000n;

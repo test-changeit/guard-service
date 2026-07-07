@@ -1,10 +1,3 @@
-import * as wasm from 'ergo-lib-wasm-nodejs';
-
-import { AbstractLogger } from '@rosen-bridge/abstract-logger';
-import { ErgoBoxSelection } from '@rosen-bridge/ergo-box-selection';
-import JsonBigInt from '@rosen-bridge/json-bigint';
-import { ErgoRosenExtractor } from '@rosen-bridge/rosen-extractor';
-import { TokenMap } from '@rosen-bridge/tokens';
 import {
   AbstractUtxoChain,
   AssetBalance,
@@ -22,7 +15,14 @@ import {
   TransactionAssetBalance,
   TransactionType,
   ValidityStatus,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import * as wasm from 'ergo-lib-wasm-nodejs';
+
+import { AbstractLogger } from '@rosen-bridge/abstract-logger';
+import { ErgoBoxSelection } from '@rosen-bridge/ergo-box-selection';
+import JsonBigInt from '@rosen-bridge/json-bigint';
+import { ErgoRosenExtractor } from '@rosen-bridge/rosen-extractor';
+import { TokenMap } from '@rosen-bridge/tokens';
 
 import { ERG, ERGO_CHAIN, NUMBER_OF_BLOCKS_PER_YEAR } from './constants';
 import ErgoTransaction from './ergoTransaction';

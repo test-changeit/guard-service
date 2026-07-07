@@ -1,5 +1,6 @@
+import { EventTrigger, PaymentOrder } from '@alakipalaki/abstract-chain';
+
 import { RosenTokens } from '@rosen-bridge/tokens';
-import { EventTrigger, PaymentOrder } from '@rosen-chains/abstract-chain';
 
 export const testTokenMap: RosenTokens = [];
 

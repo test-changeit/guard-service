@@ -1,4 +1,4 @@
-# @rosen-chains/firo
+# @alakipalaki/firo
 
 ## Description
 
@@ -7,13 +7,13 @@ This package implements the Firo chain interface for the Rosen bridge. It provid
 ## Installation
 
 ```bash
-npm install @rosen-chains/firo
+npm install @alakipalaki/firo
 ```
 
 ## Usage
 
 ```typescript
-import { FiroChain, AbstractFiroNetwork } from '@rosen-chains/firo';
+import { FiroChain, AbstractFiroNetwork } from '@alakipalaki/firo';
 
 // Implementation details to be added
 ```

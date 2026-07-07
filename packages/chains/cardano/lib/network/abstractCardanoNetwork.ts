@@ -1,6 +1,5 @@
+import { AbstractUtxoChainNetwork } from '@alakipalaki/abstract-chain';
 import { Transaction } from '@emurgo/cardano-serialization-lib-nodejs';
-
-import { AbstractUtxoChainNetwork } from '@rosen-chains/abstract-chain';
 
 import { CardanoProtocolParameters, CardanoTx, CardanoUtxo } from '../types';
 

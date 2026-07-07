@@ -1,12 +1,13 @@
-import JsonBigInt from '@rosen-bridge/json-bigint';
-import { TokenMap } from '@rosen-bridge/tokens';
 import {
   ChainUtils,
   EcdsaSignMediator,
   NotEnoughAssetsError,
   NotEnoughValidBoxesError,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+
+import JsonBigInt from '@rosen-bridge/json-bigint';
+import { TokenMap } from '@rosen-bridge/tokens';
 
 import {
   HandshakeChain,

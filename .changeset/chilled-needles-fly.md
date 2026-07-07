@@ -1,6 +1,6 @@
 ---
-'@rosen-chains/ethereum': patch
-'@rosen-chains/binance': patch
+'@alakipalaki/ethereum': patch
+'@alakipalaki/binance': patch
 ---
 
 Update dependencies

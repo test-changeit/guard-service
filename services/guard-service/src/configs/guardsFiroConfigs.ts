@@ -1,6 +1,5 @@
+import { FIRO_CHAIN, FiroConfigs } from '@alakipalaki/firo';
 import config from 'config';
-
-import { FIRO_CHAIN, FiroConfigs } from '@rosen-chains/firo';
 
 import { getChainNetworkName, getConfigIntKeyOrDefault } from './configs';
 import { rosenConfig } from './rosenConfig';

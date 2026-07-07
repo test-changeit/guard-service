@@ -1,4 +1,4 @@
-import { ChainConfigs } from '@rosen-chains/abstract-chain';
+import { ChainConfigs } from '@alakipalaki/abstract-chain';
 
 export interface EvmConfigs extends ChainConfigs {
   maxParallelTx: number;

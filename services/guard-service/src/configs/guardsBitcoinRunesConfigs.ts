@@ -1,9 +1,8 @@
-import config from 'config';
-
 import {
   BITCOIN_RUNES_CHAIN,
   BitcoinRunesConfigs,
-} from '@rosen-chains/bitcoin-runes';
+} from '@alakipalaki/bitcoin-runes';
+import config from 'config';
 
 import { getChainNetworkName } from './configs';
 import GuardsBitcoinConfigs from './guardsBitcoinConfigs';

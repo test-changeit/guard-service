@@ -1,8 +1,9 @@
+import { AssetBalance } from '@alakipalaki/abstract-chain';
+import { BITCOIN_CHAIN } from '@alakipalaki/bitcoin';
+import { ADA, CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { DOGE_CHAIN } from '@alakipalaki/doge';
+
 import { TokenMap } from '@rosen-bridge/tokens';
-import { AssetBalance } from '@rosen-chains/abstract-chain';
-import { BITCOIN_CHAIN } from '@rosen-chains/bitcoin';
-import { ADA, CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { DOGE_CHAIN } from '@rosen-chains/doge';
 
 import { TokenHandler } from '../../src/handlers/tokenHandler';
 import { SUPPORTED_CHAINS } from '../../src/utils/constants';

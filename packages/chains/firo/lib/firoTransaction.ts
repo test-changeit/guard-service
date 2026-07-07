@@ -1,7 +1,7 @@
 import {
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 import { FIRO_CHAIN } from './constants';
 import { FiroTransactionJsonModel } from './types';

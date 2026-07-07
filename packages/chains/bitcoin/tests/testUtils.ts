@@ -1,7 +1,7 @@
+import { EcdsaSignMediator } from '@alakipalaki/abstract-chain';
 import { randomBytes } from 'crypto';
 
 import { TokenMap } from '@rosen-bridge/tokens';
-import { EcdsaSignMediator } from '@rosen-chains/abstract-chain';
 
 import { BitcoinChain, BitcoinConfigs } from '../lib';
 import TestBitcoinNetwork from './network/testBitcoinNetwork';

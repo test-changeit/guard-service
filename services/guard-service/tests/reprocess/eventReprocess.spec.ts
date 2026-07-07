@@ -1,4 +1,4 @@
-import { NotFoundError } from '@rosen-chains/abstract-chain';
+import { NotFoundError } from '@alakipalaki/abstract-chain';
 
 import RosenDialer from '../../src/communication/rosenDialer';
 import EventSerializer from '../../src/event/eventSerializer';

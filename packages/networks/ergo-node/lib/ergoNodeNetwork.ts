@@ -1,15 +1,15 @@
+import {
+  FailedError,
+  TokenDetail,
+  UNKNOWN_TOKEN,
+} from '@alakipalaki/abstract-chain';
+import { AbstractErgoNetwork } from '@alakipalaki/ergo';
 import * as ergoLib from 'ergo-lib-wasm-nodejs';
 import { BlockHeaders, ErgoStateContext } from 'ergo-lib-wasm-nodejs';
 import all from 'it-all';
 
 import { AbstractLogger } from '@rosen-bridge/abstract-logger';
 import JsonBigInt from '@rosen-bridge/json-bigint';
-import {
-  FailedError,
-  TokenDetail,
-  UNKNOWN_TOKEN,
-} from '@rosen-chains/abstract-chain';
-import { AbstractErgoNetwork } from '@rosen-chains/ergo';
 import ergoNodeClientFactory, {
   IndexedErgoBox,
 } from '@rosen-clients/ergo-node';

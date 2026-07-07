@@ -1,11 +1,11 @@
-import { BINANCE_CHAIN, BNB } from '@rosen-chains/binance';
-import { BITCOIN_CHAIN, BTC } from '@rosen-chains/bitcoin';
-import { BITCOIN_RUNES_CHAIN } from '@rosen-chains/bitcoin-runes';
-import { ADA, CARDANO_CHAIN } from '@rosen-chains/cardano';
-import { DOGE, DOGE_CHAIN } from '@rosen-chains/doge';
-import { ERG, ERGO_CHAIN } from '@rosen-chains/ergo';
-import { ETH, ETHEREUM_CHAIN } from '@rosen-chains/ethereum';
-import { FIRO, FIRO_CHAIN } from '@rosen-chains/firo';
+import { BINANCE_CHAIN, BNB } from '@alakipalaki/binance';
+import { BITCOIN_CHAIN, BTC } from '@alakipalaki/bitcoin';
+import { BITCOIN_RUNES_CHAIN } from '@alakipalaki/bitcoin-runes';
+import { ADA, CARDANO_CHAIN } from '@alakipalaki/cardano';
+import { DOGE, DOGE_CHAIN } from '@alakipalaki/doge';
+import { ERG, ERGO_CHAIN } from '@alakipalaki/ergo';
+import { ETH, ETHEREUM_CHAIN } from '@alakipalaki/ethereum';
+import { FIRO, FIRO_CHAIN } from '@alakipalaki/firo';
 
 class EventStatus {
   static pendingPayment = 'pending-payment';

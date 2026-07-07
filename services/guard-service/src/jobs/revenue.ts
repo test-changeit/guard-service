@@ -1,9 +1,10 @@
-import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import {
   ImpossibleBehavior,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { ERG } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { ERG } from '@alakipalaki/ergo';
+
+import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 
 import Configs from '../configs/configs';
 import GuardsErgoConfigs from '../configs/guardsErgoConfigs';

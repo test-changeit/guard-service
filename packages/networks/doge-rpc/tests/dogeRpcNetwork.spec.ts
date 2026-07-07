@@ -1,6 +1,5 @@
+import { FailedError, NetworkError } from '@alakipalaki/abstract-chain';
 import { vi, describe, it, expect, beforeEach } from 'vitest';
-
-import { FailedError, NetworkError } from '@rosen-chains/abstract-chain';
 
 import DogeRpcNetwork from '../lib/dogeRpcNetwork';
 import { resetAxiosMock, axiosInstance } from './mocked/rateLimitedAxios.mock';

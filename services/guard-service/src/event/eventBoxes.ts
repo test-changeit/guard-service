@@ -1,8 +1,8 @@
+import { EventTrigger } from '@alakipalaki/abstract-chain';
 import { blake2b } from 'blakejs';
 import { uniqBy } from 'lodash-es';
 
 import { CommitmentEntity } from '@rosen-bridge/watcher-data-extractor';
-import { EventTrigger } from '@rosen-chains/abstract-chain';
 
 import { DatabaseAction } from '../db/databaseAction';
 import Utils from '../utils/utils';

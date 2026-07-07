@@ -1,8 +1,8 @@
 import {
   ConfirmationStatus,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
+} from '@alakipalaki/abstract-chain';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
 
 import EventSerializer from '../../src/event/eventSerializer';
 import TransactionProcessor from '../../src/transaction/transactionProcessor';

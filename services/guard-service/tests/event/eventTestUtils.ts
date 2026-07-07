@@ -1,6 +1,5 @@
+import { EventTrigger } from '@alakipalaki/abstract-chain';
 import { blake2b } from 'blakejs';
-
-import { EventTrigger } from '@rosen-chains/abstract-chain';
 
 import TestUtils from '../testUtils/testUtils';
 

@@ -1,8 +1,8 @@
+import { EcdsaSignMediator } from '@alakipalaki/abstract-chain';
 import { randomBytes } from 'crypto';
 
 import { AbstractLogger } from '@rosen-bridge/abstract-logger';
 import { TokenMap } from '@rosen-bridge/tokens';
-import { EcdsaSignMediator } from '@rosen-chains/abstract-chain';
 
 import { BitcoinRunesChain, BitcoinRunesConfigs } from '../lib';
 import { TestBitcoinRunesNetwork } from './network/testBitcoinRunesNetwork';

@@ -1,4 +1,4 @@
-# @rosen-chains/bitcoin-runes-rpc
+# @alakipalaki/bitcoin-runes-rpc
 
 ## Table of contents
 
@@ -7,18 +7,18 @@
 
 ## Introduction
 
-A package to be used as network api provider for @rosen-chains/bitcoin-runes package
+A package to be used as network api provider for @alakipalaki/bitcoin-runes package
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/bitcoin-runes-rpc
+npm i @alakipalaki/bitcoin-runes-rpc
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/bitcoin-runes-rpc
+yarn add @alakipalaki/bitcoin-runes-rpc
 ```

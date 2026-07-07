@@ -1,10 +1,9 @@
-import { vi } from 'vitest';
-
 import {
   FailedError,
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import { vi } from 'vitest';
 
 import DogeEsploraNetwork from '../lib/dogeEsploraNetwork';
 import {

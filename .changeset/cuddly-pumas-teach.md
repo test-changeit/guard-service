@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/ergo-node-network': patch
+'@alakipalaki/ergo-node-network': patch
 ---
 
 Update dependencies

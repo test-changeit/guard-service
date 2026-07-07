@@ -1,7 +1,7 @@
+import { NotFoundError } from '@alakipalaki/abstract-chain';
 import rateLimit from '@fastify/rate-limit';
 
 import { FastifyWithZod, makeFastify } from '@rosen-bridge/fastify-enhanced';
-import { NotFoundError } from '@rosen-chains/abstract-chain';
 
 import { eventReprocessRoute } from '../../src/api/reprocess';
 import Configs from '../../src/configs/configs';

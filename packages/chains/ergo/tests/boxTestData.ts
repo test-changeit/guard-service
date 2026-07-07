@@ -1,4 +1,4 @@
-import { AssetBalance, EventTrigger } from '@rosen-chains/abstract-chain';
+import { AssetBalance, EventTrigger } from '@alakipalaki/abstract-chain';
 
 import { GuardsPkConfig } from '../lib';
 

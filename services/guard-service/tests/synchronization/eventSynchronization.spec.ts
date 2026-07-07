@@ -2,7 +2,7 @@ import {
   ConfirmationStatus,
   PaymentOrder,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
 
 import Configs from '../../src/configs/configs';
 import EventSerializer from '../../src/event/eventSerializer';

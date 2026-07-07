@@ -1,8 +1,7 @@
+import { ERGO_CHAIN, ErgoConfigs } from '@alakipalaki/ergo';
+import { EXPLORER_NETWORK } from '@alakipalaki/ergo-explorer-network';
+import { NODE_NETWORK } from '@alakipalaki/ergo-node-network';
 import config from 'config';
-
-import { ERGO_CHAIN, ErgoConfigs } from '@rosen-chains/ergo';
-import { EXPLORER_NETWORK } from '@rosen-chains/ergo-explorer-network';
-import { NODE_NETWORK } from '@rosen-chains/ergo-node-network';
 
 import { FeeDistribution } from '../types/config';
 import { SUPPORTED_CHAINS } from '../utils/constants';

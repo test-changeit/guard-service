@@ -1,4 +1,4 @@
-import { TransactionType } from '@rosen-chains/abstract-chain';
+import { TransactionType } from '@alakipalaki/abstract-chain';
 
 import EventSerializer from '../../src/event/eventSerializer';
 import { UpdateStatusDTO } from '../../src/handlers/publicStatusHandler';

@@ -1,12 +1,13 @@
-import { ChainMinimumFee } from '@rosen-bridge/minimum-fee';
 import {
   AssetBalance,
   EventTrigger,
   PaymentOrder,
   SinglePayment,
   TokenInfo,
-} from '@rosen-chains/abstract-chain';
-import { ERG, ERGO_CHAIN, ErgoChain } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { ERG, ERGO_CHAIN, ErgoChain } from '@alakipalaki/ergo';
+
+import { ChainMinimumFee } from '@rosen-bridge/minimum-fee';
 
 import GuardsErgoConfigs from '../configs/guardsErgoConfigs';
 import ChainHandler from '../handlers/chainHandler';

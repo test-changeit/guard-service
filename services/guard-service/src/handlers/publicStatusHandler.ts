@@ -1,9 +1,10 @@
-import { DefaultLogger } from '@rosen-bridge/abstract-logger';
-import { DataSource, Not, Repository } from '@rosen-bridge/extended-typeorm';
 import {
   ImpossibleBehavior,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+
+import { DefaultLogger } from '@rosen-bridge/abstract-logger';
+import { DataSource, Not, Repository } from '@rosen-bridge/extended-typeorm';
 import axios, { Axios, isAxiosError } from '@rosen-clients/rate-limited-axios';
 
 import Configs from '../configs/configs';

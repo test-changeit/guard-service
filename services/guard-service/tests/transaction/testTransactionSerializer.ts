@@ -3,9 +3,9 @@ import {
   PaymentTransaction,
   PaymentTransactionJsonModel,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { CARDANO_CHAIN, CardanoTransaction } from '@rosen-chains/cardano';
-import { ERGO_CHAIN, ErgoTransaction } from '@rosen-chains/ergo';
+} from '@alakipalaki/abstract-chain';
+import { CARDANO_CHAIN, CardanoTransaction } from '@alakipalaki/cardano';
+import { ERGO_CHAIN, ErgoTransaction } from '@alakipalaki/ergo';
 
 /**
  * converts json string to PaymentTransaction

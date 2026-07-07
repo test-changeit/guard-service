@@ -1,4 +1,4 @@
-# @rosen-chains/doge
+# @alakipalaki/doge
 
 ## Table of contents
 
@@ -14,11 +14,11 @@ this project contains doge chain for Rosen-bridge
 npm:
 
 ```sh
-npm i @rosen-chains/doge
+npm i @alakipalaki/doge
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/doge
+yarn add @alakipalaki/doge
 ```

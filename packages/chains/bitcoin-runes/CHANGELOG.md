@@ -1,4 +1,4 @@
-# @rosen-chains/bitcoin-runes
+# @alakipalaki/bitcoin-runes
 
 ## 4.0.0
 
@@ -15,8 +15,8 @@
   - @rosen-bridge/bitcoin-runes-utxo-selection@2.0.3
   - @rosen-bridge/rosen-extractor@11.3.0
   - @rosen-bridge/tokens@6.0.0
-  - @rosen-chains/abstract-chain@16.0.0
-  - @rosen-chains/bitcoin@10.0.0
+  - @alakipalaki/abstract-chain@16.0.0
+  - @alakipalaki/bitcoin@10.0.0
 
 ## 3.0.2
 
@@ -26,8 +26,8 @@
 - Fix bug where additional tokens were not calculated correctly
 - Fix bug where a BTC-only box can be selected multiple times while generating multiple transactions
 - Update dependencies
-  - @rosen-chains/abstract-chain@15.0.2
-  - @rosen-chains/bitcoin@9.0.2
+  - @alakipalaki/abstract-chain@15.0.2
+  - @alakipalaki/bitcoin@9.0.2
 
 ## 3.0.1
 
@@ -45,8 +45,8 @@
 
 - Update dependencies
   - @rosen-bridge/rosen-extractor@11.0.0
-  - @rosen-chains/abstract-chain@15.0.1
-  - @rosen-chains/bitcoin@9.0.1
+  - @alakipalaki/abstract-chain@15.0.1
+  - @alakipalaki/bitcoin@9.0.1
 
 ## 2.0.0
 
@@ -69,8 +69,8 @@
   - @rosen-bridge/json-bigint@1.1.0
   - @rosen-bridge/rosen-extractor@10.1.1
   - @rosen-bridge/tokens@4.0.1
-  - @rosen-chains/abstract-chain@15.0.0
-  - @rosen-chains/bitcoin@9.0.0
+  - @alakipalaki/abstract-chain@15.0.0
+  - @alakipalaki/bitcoin@9.0.0
 
 ## 1.0.0
 
@@ -82,12 +82,12 @@
 
 ### Minor Changes
 
-- Re-export `CONFIRMATION_TARGET` constant from `@rosen-chains/bitcoin`
+- Re-export `CONFIRMATION_TARGET` constant from `@alakipalaki/bitcoin`
 
 ### Patch Changes
 
 - Revamp `BitcoinRunesChain.generateMultipleTransactions` to get address boxes by selecting Runes boxes first and then selecting other boxes to cover required BTC
 - Update Rosen utility packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.1
-  - @rosen-chains/bitcoin@8.1.1
+  - @alakipalaki/abstract-chain@14.0.1
+  - @alakipalaki/bitcoin@8.1.1

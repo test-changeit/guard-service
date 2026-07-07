@@ -5,7 +5,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/bitcoin-runes-rpc@2.0.5
+  - @alakipalaki/bitcoin-runes-rpc@2.0.5
 
 ## 9.1.0
 
@@ -55,25 +55,25 @@
   - @rosen-bridge/watcher-data-extractor@13.0.3
   - @rosen-bridge/winston-logger@3.0.0
   - @rosen-clients/rate-limited-axios@1.1.1
-  - @rosen-chains/abstract-chain@16.0.0
-  - @rosen-chains/binance@4.0.0
-  - @rosen-chains/bitcoin@10.0.0
-  - @rosen-chains/bitcoin-esplora@5.0.3
-  - @rosen-chains/bitcoin-runes@4.0.0
-  - @rosen-chains/bitcoin-runes-rpc@2.0.4
-  - @rosen-chains/cardano@16.0.0
-  - @rosen-chains/cardano-blockfrost-network@10.0.2
-  - @rosen-chains/cardano-koios-network@13.0.2
-  - @rosen-chains/doge@4.0.0
-  - @rosen-chains/doge-blockcypher@1.0.3
-  - @rosen-chains/doge-esplora@2.0.3
-  - @rosen-chains/doge-rpc@1.0.3
-  - @rosen-chains/ergo@14.0.0
-  - @rosen-chains/ergo-explorer-network@10.0.3
-  - @rosen-chains/ergo-node-network@10.0.3
-  - @rosen-chains/ethereum@4.0.0
-  - @rosen-chains/evm@10.0.0
-  - @rosen-chains/evm-rpc@4.0.4
+  - @alakipalaki/abstract-chain@16.0.0
+  - @alakipalaki/binance@4.0.0
+  - @alakipalaki/bitcoin@10.0.0
+  - @alakipalaki/bitcoin-esplora@5.0.3
+  - @alakipalaki/bitcoin-runes@4.0.0
+  - @alakipalaki/bitcoin-runes-rpc@2.0.4
+  - @alakipalaki/cardano@16.0.0
+  - @alakipalaki/cardano-blockfrost-network@10.0.2
+  - @alakipalaki/cardano-koios-network@13.0.2
+  - @alakipalaki/doge@4.0.0
+  - @alakipalaki/doge-blockcypher@1.0.3
+  - @alakipalaki/doge-esplora@2.0.3
+  - @alakipalaki/doge-rpc@1.0.3
+  - @alakipalaki/ergo@14.0.0
+  - @alakipalaki/ergo-explorer-network@10.0.3
+  - @alakipalaki/ergo-node-network@10.0.3
+  - @alakipalaki/ethereum@4.0.0
+  - @alakipalaki/evm@10.0.0
+  - @alakipalaki/evm-rpc@4.0.4
 
 ## 8.1.0
 
@@ -111,7 +111,7 @@
 - Remove public ip access on rosenet for direct message
 - Change Bitcoin Runes asset check label from `bitcoin` to `bitcoin-runes`
 - Update dependencies
-  - @rosen-chains/bitcoin-runes-rpc@2.0.3
+  - @alakipalaki/bitcoin-runes-rpc@2.0.3
 
 ## 8.0.0
 
@@ -186,25 +186,25 @@
   - @rosen-bridge/tx-progress-check@3.0.0
   - @rosen-bridge/watcher-data-extractor@12.3.0
   - @rosen-bridge/winston-logger@2.0.1
-  - @rosen-chains/abstract-chain@15.0.2
-  - @rosen-chains/binance@3.0.2
-  - @rosen-chains/bitcoin@9.0.2
-  - @rosen-chains/bitcoin-esplora@5.0.2
-  - @rosen-chains/bitcoin-runes@3.0.2
-  - @rosen-chains/bitcoin-runes-rpc@2.0.2
-  - @rosen-chains/cardano@15.0.1
-  - @rosen-chains/cardano-blockfrost-network@10.0.1
-  - @rosen-chains/cardano-koios-network@13.0.1
-  - @rosen-chains/doge@3.0.2
-  - @rosen-chains/doge-blockcypher@1.0.2
-  - @rosen-chains/doge-esplora@2.0.2
-  - @rosen-chains/doge-rpc@1.0.2
-  - @rosen-chains/ergo@13.0.2
-  - @rosen-chains/ergo-explorer-network@10.0.2
-  - @rosen-chains/ergo-node-network@10.0.2
-  - @rosen-chains/ethereum@3.0.2
-  - @rosen-chains/evm@9.0.2
-  - @rosen-chains/evm-rpc@4.0.3
+  - @alakipalaki/abstract-chain@15.0.2
+  - @alakipalaki/binance@3.0.2
+  - @alakipalaki/bitcoin@9.0.2
+  - @alakipalaki/bitcoin-esplora@5.0.2
+  - @alakipalaki/bitcoin-runes@3.0.2
+  - @alakipalaki/bitcoin-runes-rpc@2.0.2
+  - @alakipalaki/cardano@15.0.1
+  - @alakipalaki/cardano-blockfrost-network@10.0.1
+  - @alakipalaki/cardano-koios-network@13.0.1
+  - @alakipalaki/doge@3.0.2
+  - @alakipalaki/doge-blockcypher@1.0.2
+  - @alakipalaki/doge-esplora@2.0.2
+  - @alakipalaki/doge-rpc@1.0.2
+  - @alakipalaki/ergo@13.0.2
+  - @alakipalaki/ergo-explorer-network@10.0.2
+  - @alakipalaki/ergo-node-network@10.0.2
+  - @alakipalaki/ethereum@3.0.2
+  - @alakipalaki/evm@9.0.2
+  - @alakipalaki/evm-rpc@4.0.3
   - @rosen-clients/rate-limited-axios@1.1.0
 
 ## 7.0.1

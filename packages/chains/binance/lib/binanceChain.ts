@@ -1,11 +1,12 @@
-import { AbstractLogger } from '@rosen-bridge/abstract-logger';
-import { TokenMap } from '@rosen-bridge/tokens';
 import {
   AbstractEvmNetwork,
   EvmChain,
   EvmConfigs,
   EvmChainSignMediator,
-} from '@rosen-chains/evm';
+} from '@alakipalaki/evm';
+
+import { AbstractLogger } from '@rosen-bridge/abstract-logger';
+import { TokenMap } from '@rosen-bridge/tokens';
 
 import { BNB, BINANCE_CHAIN, BINANCE_CHAIN_ID } from './constants';
 

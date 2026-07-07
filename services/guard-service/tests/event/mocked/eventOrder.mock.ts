@@ -1,4 +1,4 @@
-import { PaymentOrder, SinglePayment } from '@rosen-chains/abstract-chain';
+import { PaymentOrder, SinglePayment } from '@alakipalaki/abstract-chain';
 
 import EventOrder from '../../../src/event/eventOrder';
 

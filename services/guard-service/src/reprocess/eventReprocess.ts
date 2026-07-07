@@ -1,10 +1,10 @@
+import { NotFoundError } from '@alakipalaki/abstract-chain';
 import { randomBytes } from 'crypto';
 
 import { DefaultLogger } from '@rosen-bridge/abstract-logger';
 import { Communicator } from '@rosen-bridge/communication';
 import { RosenDialerNode } from '@rosen-bridge/dialer';
 import { EventTriggerEntity } from '@rosen-bridge/watcher-data-extractor';
-import { NotFoundError } from '@rosen-chains/abstract-chain';
 
 import RosenDialer from '../communication/rosenDialer';
 import Configs from '../configs/configs';

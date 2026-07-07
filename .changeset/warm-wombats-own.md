@@ -1,9 +1,9 @@
 ---
-'@rosen-chains/cardano': patch
-'@rosen-chains/doge': patch
-'@rosen-chains/ergo': patch
-'@rosen-chains/firo': patch
-'@rosen-chains/evm': patch
+'@alakipalaki/cardano': patch
+'@alakipalaki/doge': patch
+'@alakipalaki/ergo': patch
+'@alakipalaki/firo': patch
+'@alakipalaki/evm': patch
 ---
 
 Update dependencies

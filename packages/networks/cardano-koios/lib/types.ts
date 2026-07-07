@@ -1,4 +1,4 @@
-import { UnexpectedApiError } from '@rosen-chains/abstract-chain';
+import { UnexpectedApiError } from '@alakipalaki/abstract-chain';
 
 class KoiosNullValueError extends UnexpectedApiError {
   constructor(msg: string) {

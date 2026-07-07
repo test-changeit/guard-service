@@ -1,52 +1,52 @@
-import { DatabaseAction } from 'src/db/databaseAction';
-
-import { DefaultLogger } from '@rosen-bridge/abstract-logger';
-import { chainDecoders, chainValidators } from '@rosen-bridge/address-codec';
-import { AddressManager } from '@rosen-bridge/address-manager';
-import { AbstractChain } from '@rosen-chains/abstract-chain';
-import { BINANCE_CHAIN, BinanceChain } from '@rosen-chains/binance';
+import { AbstractChain } from '@alakipalaki/abstract-chain';
+import { BINANCE_CHAIN, BinanceChain } from '@alakipalaki/binance';
 import {
   AbstractBitcoinNetwork,
   BITCOIN_CHAIN,
   BitcoinChain,
-} from '@rosen-chains/bitcoin';
-import BitcoinEsploraNetwork from '@rosen-chains/bitcoin-esplora';
+} from '@alakipalaki/bitcoin';
+import BitcoinEsploraNetwork from '@alakipalaki/bitcoin-esplora';
 import {
   BitcoinRunesChain,
   AbstractBitcoinRunesNetwork,
   BITCOIN_RUNES_CHAIN,
-} from '@rosen-chains/bitcoin-runes';
-import { BitcoinRunesRpcNetwork } from '@rosen-chains/bitcoin-runes-rpc';
+} from '@alakipalaki/bitcoin-runes';
+import { BitcoinRunesRpcNetwork } from '@alakipalaki/bitcoin-runes-rpc';
 import {
   AbstractCardanoNetwork,
   CARDANO_CHAIN,
   CardanoChain,
-} from '@rosen-chains/cardano';
+} from '@alakipalaki/cardano';
 import CardanoBlockFrostNetwork, {
   BLOCKFROST_NETWORK,
-} from '@rosen-chains/cardano-blockfrost-network';
+} from '@alakipalaki/cardano-blockfrost-network';
 import CardanoKoiosNetwork, {
   KOIOS_NETWORK,
-} from '@rosen-chains/cardano-koios-network';
+} from '@alakipalaki/cardano-koios-network';
 import {
   AbstractDogeNetwork,
   DOGE_CHAIN,
   DogeChain,
   CombinedDogeNetwork,
-} from '@rosen-chains/doge';
-import { DogeBlockcypherNetwork } from '@rosen-chains/doge-blockcypher';
-import { DogeEsploraNetwork } from '@rosen-chains/doge-esplora';
-import { DogeRpcNetwork } from '@rosen-chains/doge-rpc';
-import { AbstractErgoNetwork, ERGO_CHAIN, ErgoChain } from '@rosen-chains/ergo';
+} from '@alakipalaki/doge';
+import { DogeBlockcypherNetwork } from '@alakipalaki/doge-blockcypher';
+import { DogeEsploraNetwork } from '@alakipalaki/doge-esplora';
+import { DogeRpcNetwork } from '@alakipalaki/doge-rpc';
+import { AbstractErgoNetwork, ERGO_CHAIN, ErgoChain } from '@alakipalaki/ergo';
 import ErgoExplorerNetwork, {
   EXPLORER_NETWORK,
-} from '@rosen-chains/ergo-explorer-network';
-import ErgoNodeNetwork, { NODE_NETWORK } from '@rosen-chains/ergo-node-network';
-import { ETHEREUM_CHAIN, EthereumChain } from '@rosen-chains/ethereum';
-import { AbstractEvmNetwork } from '@rosen-chains/evm';
-import EvmRpcNetwork from '@rosen-chains/evm-rpc';
-import { FIRO_CHAIN, FiroChain } from '@rosen-chains/firo';
-import { FiroRpcNetwork } from '@rosen-chains/firo-rpc';
+} from '@alakipalaki/ergo-explorer-network';
+import ErgoNodeNetwork, { NODE_NETWORK } from '@alakipalaki/ergo-node-network';
+import { ETHEREUM_CHAIN, EthereumChain } from '@alakipalaki/ethereum';
+import { AbstractEvmNetwork } from '@alakipalaki/evm';
+import EvmRpcNetwork from '@alakipalaki/evm-rpc';
+import { FIRO_CHAIN, FiroChain } from '@alakipalaki/firo';
+import { FiroRpcNetwork } from '@alakipalaki/firo-rpc';
+import { DatabaseAction } from 'src/db/databaseAction';
+
+import { DefaultLogger } from '@rosen-bridge/abstract-logger';
+import { chainDecoders, chainValidators } from '@rosen-bridge/address-codec';
+import { AddressManager } from '@rosen-bridge/address-manager';
 import { RateLimitedAxiosConfig } from '@rosen-clients/rate-limited-axios';
 
 import GuardsBinanceConfigs from '../configs/guardsBinanceConfigs';

@@ -1,4 +1,4 @@
-# @rosen-chains/cardano
+# @alakipalaki/cardano
 
 ## 16.0.0
 
@@ -14,7 +14,7 @@
   - @rosen-bridge/cardano-utxo-selection@3.0.3
   - @rosen-bridge/rosen-extractor@11.3.0
   - @rosen-bridge/tokens@6.0.0
-  - @rosen-chains/abstract-chain@16.0.0
+  - @alakipalaki/abstract-chain@16.0.0
 
 ## 15.0.1
 
@@ -22,7 +22,7 @@
 
 - Remove dependency bech32
 - Update dependencies
-  - @rosen-chains/abstract-chain@15.0.2
+  - @alakipalaki/abstract-chain@15.0.2
 
 ## 15.0.0
 
@@ -34,7 +34,7 @@
 
 - Update dependencies
   - @rosen-bridge/rosen-extractor@11.0.0
-  - @rosen-chains/abstract-chain@15.0.1
+  - @alakipalaki/abstract-chain@15.0.1
 
 ## 14.0.0
 
@@ -53,7 +53,7 @@
   - @rosen-bridge/json-bigint@1.1.0
   - @rosen-bridge/rosen-extractor@10.1.1
   - @rosen-bridge/tokens@4.0.1
-  - @rosen-chains/abstract-chain@15.0.0
+  - @alakipalaki/abstract-chain@15.0.0
 
 ## 13.0.1
 
@@ -62,7 +62,7 @@
 - Update box-selection packages
 - Update Rosen utility packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.1
+  - @alakipalaki/abstract-chain@14.0.1
 
 ## 13.0.0
 
@@ -82,14 +82,14 @@
 - Fix bug in calculating tx ID
 - Update box-selection packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.0
+  - @alakipalaki/abstract-chain@14.0.0
 
 ## 12.0.1
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.1.0
+  - @alakipalaki/abstract-chain@13.1.0
 
 ## 12.0.0
 
@@ -100,7 +100,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.0.0
+  - @alakipalaki/abstract-chain@13.0.0
 
 ## 11.0.0
 
@@ -112,7 +112,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@12.0.0
+  - @alakipalaki/abstract-chain@12.0.0
 
 ## 10.1.4
 
@@ -126,14 +126,14 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.3
+  - @alakipalaki/abstract-chain@11.0.3
 
 ## 10.1.2
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.2
+  - @alakipalaki/abstract-chain@11.0.2
 
 ## 10.1.1
 
@@ -141,7 +141,7 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.1
+  - @alakipalaki/abstract-chain@11.0.1
 
 ## 10.1.0
 
@@ -152,7 +152,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@11.0.0
+  - @alakipalaki/abstract-chain@11.0.0
 
 ## 10.0.0
 
@@ -167,7 +167,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@10.0.0
+  - @alakipalaki/abstract-chain@10.0.0
 
 ## 9.0.2
 
@@ -176,7 +176,7 @@
 - Improve logs
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@9.0.2
+  - @alakipalaki/abstract-chain@9.0.2
 
 ## 9.0.1
 
@@ -184,7 +184,7 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@9.0.1
+  - @alakipalaki/abstract-chain@9.0.1
 
 ## 9.0.0
 
@@ -196,7 +196,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@9.0.0
+  - @alakipalaki/abstract-chain@9.0.0
 
 ## 8.0.0
 
@@ -209,7 +209,7 @@
 
 - Add NATIVE_TOKEN_ID variable to CardanoChain
 - Update dependencies
-  - @rosen-chains/abstract-chain@8.0.0
+  - @alakipalaki/abstract-chain@8.0.0
 
 ## 7.0.2
 
@@ -217,7 +217,7 @@
 
 - Update rosen-extractor
 - Update dependencies
-  - @rosen-chains/abstract-chain@7.0.2
+  - @alakipalaki/abstract-chain@7.0.2
 
 ## 7.0.1
 
@@ -225,7 +225,7 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@7.0.1
+  - @alakipalaki/abstract-chain@7.0.1
 
 ## 7.0.0
 
@@ -236,7 +236,7 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@7.0.0
+  - @alakipalaki/abstract-chain@7.0.0
 
 ## 6.0.0
 
@@ -252,7 +252,7 @@
 
 - Update rosen-extractor version
 - Update dependencies
-  - @rosen-chains/abstract-chain@6.0.0
+  - @alakipalaki/abstract-chain@6.0.0
 
 ## 5.0.0
 
@@ -264,11 +264,11 @@
 
 - Fix verifyTransactionExtraConditions function name
 - Update dependencies
-  - @rosen-chains/abstract-chain@5.0.0
+  - @alakipalaki/abstract-chain@5.0.0
 
 ## 4.0.0
 
 ### Major Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@4.0.0
+  - @alakipalaki/abstract-chain@4.0.0

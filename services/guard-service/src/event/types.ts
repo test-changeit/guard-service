@@ -1,4 +1,4 @@
-import { PaymentOrder } from '@rosen-chains/abstract-chain';
+import { PaymentOrder } from '@alakipalaki/abstract-chain';
 
 interface PermitBoxValue {
   wid: string;

@@ -1,4 +1,4 @@
-# @rosen-chains/ergo-node-network
+# @alakipalaki/ergo-node-network
 
 ## Table of contents
 
@@ -8,28 +8,28 @@
 
 ## Introduction
 
-`@rosen-chains/ergo-node-network` is a package to be used as network api
-provider for `@rosen-chains/ergo` package.
+`@alakipalaki/ergo-node-network` is a package to be used as network api
+provider for `@alakipalaki/ergo` package.
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/ergo-node-network
+npm i @alakipalaki/ergo-node-network
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/ergo-node-network
+yarn add @alakipalaki/ergo-node-network
 ```
 
 ## Usage
 
 ```ts
-import { ErgoChain } from '@rosen-chains/ergo';
-import ErgoNodeNetwork from '@rosen-chains/ergo-node-network';
+import { ErgoChain } from '@alakipalaki/ergo';
+import ErgoNodeNetwork from '@alakipalaki/ergo-node-network';
 
 const ergoNodeNetwork = new ErgoNodeNetwork({
   nodeBaseUrl: 'SOME_NODE_URL',

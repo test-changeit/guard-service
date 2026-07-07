@@ -3,4 +3,4 @@ export { default as AbstractBitcoinRunesNetwork } from './network/abstractBitcoi
 export { default as BitcoinRunesTransaction } from './bitcoinRunesTransaction';
 export * from './types';
 export * from './constants';
-export { CONFIRMATION_TARGET } from '@rosen-chains/bitcoin';
+export { CONFIRMATION_TARGET } from '@alakipalaki/bitcoin';

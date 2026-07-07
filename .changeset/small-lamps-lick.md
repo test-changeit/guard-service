@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/handshake-rpc': minor
+'@alakipalaki/handshake-rpc': minor
 ---
 
 Initialize the package

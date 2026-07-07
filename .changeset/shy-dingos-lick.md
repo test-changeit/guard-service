@@ -1,5 +1,5 @@
 ---
-'@rosen-chains/cardano-koios-network': patch
+'@alakipalaki/cardano-koios-network': patch
 ---
 
 Update dependencies

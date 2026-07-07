@@ -1,4 +1,4 @@
-import { EvmTxStatus } from '@rosen-chains/evm';
+import { EvmTxStatus } from '@alakipalaki/evm';
 
 import { mockDataSource } from './mocked/dataSource.mock';
 import * as ethersMock from './mocked/ethers.mock';

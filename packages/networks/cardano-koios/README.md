@@ -1,4 +1,4 @@
-# @rosen-chains/cardano-koio-network
+# @alakipalaki/cardano-koio-network
 
 ## Table of contents
 
@@ -8,28 +8,28 @@
 
 ## Introduction
 
-`@rosen-chains/cardano-koios-network` is a package to be used as network api
-provider for `@rosen-chains/cardano` package.
+`@alakipalaki/cardano-koios-network` is a package to be used as network api
+provider for `@alakipalaki/cardano` package.
 
 ## Installation
 
 npm:
 
 ```sh
-npm i @rosen-chains/cardano-koios-network
+npm i @alakipalaki/cardano-koios-network
 ```
 
 yarn:
 
 ```sh
-yarn add @rosen-chains/cardano-koios-network
+yarn add @alakipalaki/cardano-koios-network
 ```
 
 ## Usage
 
 ```ts
-import { CardanoChain } from '@rosen-chains/cardano';
-import CardanoKoiosNetwork from '@rosen-chains/cardano-koios-network';
+import { CardanoChain } from '@alakipalaki/cardano';
+import CardanoKoiosNetwork from '@alakipalaki/cardano-koios-network';
 
 let tokens: RosenTokens;
 const cardanoKoiosNetwork = new CardanoKoiosNetwork(

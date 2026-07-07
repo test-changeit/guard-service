@@ -1,6 +1,7 @@
+import { BlockInfo, TokenDetail } from '@alakipalaki/abstract-chain';
+
 import { CardanoRosenExtractor } from '@rosen-bridge/rosen-extractor';
 import { TokenMap } from '@rosen-bridge/tokens';
-import { BlockInfo, TokenDetail } from '@rosen-chains/abstract-chain';
 
 import { AbstractCardanoNetwork } from '../../lib';
 import {

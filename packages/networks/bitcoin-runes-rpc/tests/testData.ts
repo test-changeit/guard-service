@@ -1,5 +1,5 @@
-import { AssetBalance } from '@rosen-chains/abstract-chain';
-import { BitcoinRunesTx, BitcoinRunesUtxo } from '@rosen-chains/bitcoin-runes';
+import { AssetBalance } from '@alakipalaki/abstract-chain';
+import { BitcoinRunesTx, BitcoinRunesUtxo } from '@alakipalaki/bitcoin-runes';
 
 export const RPC_URL = 'rpc';
 export const UNISAT_URL = 'unisat';

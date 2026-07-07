@@ -1,8 +1,8 @@
 import {
   PaymentTransaction,
   TransactionType,
-} from '@rosen-chains/abstract-chain';
-import { CARDANO_CHAIN } from '@rosen-chains/cardano';
+} from '@alakipalaki/abstract-chain';
+import { CARDANO_CHAIN } from '@alakipalaki/cardano';
 
 import GuardsErgoConfigs from '../../src/configs/guardsErgoConfigs';
 import DatabaseHandler from '../../src/db/databaseHandler';

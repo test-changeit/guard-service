@@ -1,5 +1,6 @@
+import { PaymentOrder } from '@alakipalaki/abstract-chain';
+
 import JsonBigInt from '@rosen-bridge/json-bigint';
-import { PaymentOrder } from '@rosen-chains/abstract-chain';
 
 export const order: PaymentOrder = [
   {

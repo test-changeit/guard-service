@@ -1,9 +1,8 @@
-import { ErgoBox, ReducedTransaction, Transaction } from 'ergo-lib-wasm-nodejs';
-
 import {
   ChainConfigs,
   PaymentTransactionJsonModel,
-} from '@rosen-chains/abstract-chain';
+} from '@alakipalaki/abstract-chain';
+import { ErgoBox, ReducedTransaction, Transaction } from 'ergo-lib-wasm-nodejs';
 
 interface ErgoConfigs extends ChainConfigs {
   minBoxValue: bigint;

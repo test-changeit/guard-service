@@ -1,4 +1,4 @@
-# @rosen-chains/doge-esplora
+# @alakipalaki/doge-esplora
 
 ## 2.0.3
 
@@ -6,8 +6,8 @@
 
 - Update dependencies
   - @rosen-bridge/abstract-logger@4.0.0
-  - @rosen-chains/abstract-chain@16.0.0
-  - @rosen-chains/doge@4.0.0
+  - @alakipalaki/abstract-chain@16.0.0
+  - @alakipalaki/doge@4.0.0
   - @rosen-clients/rate-limited-axios@1.1.1
 
 ## 2.0.2
@@ -15,16 +15,16 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@15.0.2
-  - @rosen-chains/doge@3.0.2
+  - @alakipalaki/abstract-chain@15.0.2
+  - @alakipalaki/doge@3.0.2
 
 ## 2.0.1
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@15.0.1
-  - @rosen-chains/doge@3.0.1
+  - @alakipalaki/abstract-chain@15.0.1
+  - @alakipalaki/doge@3.0.1
 
 ## 2.0.0
 
@@ -43,8 +43,8 @@
 - Update dependencies
   - @rosen-bridge/abstract-logger@3.0.1
   - @rosen-bridge/tokens@4.0.1
-  - @rosen-chains/doge@3.0.0
-  - @rosen-chains/abstract-chain@15.0.0
+  - @alakipalaki/doge@3.0.0
+  - @alakipalaki/abstract-chain@15.0.0
 
 ## 1.1.1
 
@@ -52,8 +52,8 @@
 
 - Update Rosen utility packages
 - Update dependencies
-  - @rosen-chains/abstract-chain@14.0.1
-  - @rosen-chains/doge@2.2.1
+  - @alakipalaki/abstract-chain@14.0.1
+  - @alakipalaki/doge@2.2.1
 
 ## 1.1.0
 
@@ -64,29 +64,29 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/doge@2.2.0
-  - @rosen-chains/abstract-chain@14.0.0
+  - @alakipalaki/doge@2.2.0
+  - @alakipalaki/abstract-chain@14.0.0
 
 ## 1.0.3
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/doge@2.1.1
+  - @alakipalaki/doge@2.1.1
 
 ## 1.0.2
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/doge@2.1.0
+  - @alakipalaki/doge@2.1.0
 
 ## 1.0.1
 
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/doge@2.0.1
+  - @alakipalaki/doge@2.0.1
 
 ## 1.0.0
 
@@ -102,8 +102,8 @@
 
 - Update dependencies
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.1.0
-  - @rosen-chains/doge@2.0.0
+  - @alakipalaki/abstract-chain@13.1.0
+  - @alakipalaki/doge@2.0.0
 
 ## 0.2.0
 
@@ -116,5 +116,5 @@
 ### Patch Changes
 
 - Update dependencies
-  - @rosen-chains/abstract-chain@13.0.0
-  - @rosen-chains/doge@1.0.0
+  - @alakipalaki/abstract-chain@13.0.0
+  - @alakipalaki/doge@1.0.0
