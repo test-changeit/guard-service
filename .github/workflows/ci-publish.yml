@@ -60,3 +60,4 @@ jobs:
           npm_token: ${{ secrets.NPM_TOKEN }}
           discord_hook: ${{ secrets.DISCORD_HOOK }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          enable_discord_announce: true
