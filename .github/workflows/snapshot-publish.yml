@@ -12,4 +12,5 @@ jobs:
     uses: test-changeit/operation/.github/workflows/reusable-snapshot-publish.yml@dev
     with:
       pr: ${{ inputs.pr }}
+      enable_discord_announce: true
     secrets: inherit
