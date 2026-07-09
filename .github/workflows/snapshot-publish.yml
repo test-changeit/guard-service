@@ -6,42 +6,11 @@ on:
       pr:
         description: 'Pull Request Number'
         required: true
+
 jobs:
   snapshot-publish:
-    name: snapshot publish
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-
-      - name: Checkout to PR
-        run: |
-          git fetch origin pull/${{ inputs.pr }}/head:pr-${{ inputs.pr }}
-          git checkout pr-${{ inputs.pr }}
-          git rev-parse --short=12 HEAD
-
-      - name: Setup Node
-        uses: actions/setup-node@v6
-        with:
-          node-version-file: .nvmrc
-          registry-url: 'https://registry.npmjs.org'
-
-      - name: Setup npm 11.6.2
-        run: npm i -g npm@11.6.2
-
-      - name: Install Dependencies
-        run: npm ci
-
-      - name: Build
-        run: npm run build
-
-      - name: Package Release
-        uses: test-changeit/operation/publish-package@dev
-        with:
-          type: 'snapshot-release'
-          npm_token: ${{ secrets.NPM_TOKEN }}
-          discord_hook: ${{ secrets.DISCORD_HOOK }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+    uses: test-changeit/operation/.github/workflows/reusable-snapshot-publish.yml@dev
+    with:
+      pr: ${{ inputs.pr }}
+      enable_discord_announce: true
+    secrets: inherit
