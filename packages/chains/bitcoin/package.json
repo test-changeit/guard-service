@@ -1,6 +1,6 @@
 {
   "name": "@alakipalaki/bitcoin",
-  "version": "11.0.0",
+  "version": "12.0.0",
   "description": "this project contains bitcoin chain for Rosen-bridge",
   "keywords": [
     "rosen"
@@ -37,7 +37,7 @@
     "@rosen-bridge/json-bigint": "^1.1.0",
     "@rosen-bridge/rosen-extractor": "^12.1.0",
     "@rosen-bridge/tokens": "^6.0.2",
-    "@alakipalaki/abstract-chain": "^17.0.0",
+    "@alakipalaki/abstract-chain": "^18.0.0",
     "bitcoinjs-lib": "^6.1.5"
   },
   "engines": {

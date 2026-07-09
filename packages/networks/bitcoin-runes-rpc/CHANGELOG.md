@@ -1,5 +1,17 @@
 # @alakipalaki/bitcoin-runes-rpc
 
+## 4.0.0
+
+### Major Changes
+
+- alaki nago be man dige
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@18.0.0
+  - @alakipalaki/bitcoin-runes@6.0.0
+
 ## 3.0.0
 
 ### Major Changes

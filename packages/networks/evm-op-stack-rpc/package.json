@@ -1,6 +1,6 @@
 {
   "name": "@alakipalaki/evm-op-stack-rpc",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "description": "A package to be used as network api provider for any OP-Stack based chains that are built on the @alakipalaki/evm package",
   "keywords": [
@@ -36,9 +36,9 @@
     "@rosen-bridge/abstract-logger": "^4.0.0",
     "@rosen-bridge/extended-typeorm": "^1.1.0",
     "@rosen-bridge/json-bigint": "^1.1.0",
-    "@alakipalaki/abstract-chain": "^17.0.0",
-    "@alakipalaki/evm": "^11.0.0",
-    "@alakipalaki/evm-rpc": "^5.0.0",
+    "@alakipalaki/abstract-chain": "^18.0.0",
+    "@alakipalaki/evm": "^12.0.0",
+    "@alakipalaki/evm-rpc": "^6.0.0",
     "ethers": "6.16.0"
   },
   "engines": {

@@ -1,5 +1,16 @@
 # @alakipalaki/binance
 
+## 6.0.0
+
+### Major Changes
+
+- alaki nago be man dige
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/evm@12.0.0
+
 ## 5.0.0
 
 ### Major Changes

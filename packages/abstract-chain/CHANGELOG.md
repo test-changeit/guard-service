@@ -1,5 +1,11 @@
 # @alakipalaki/abstract-chain
 
+## 18.0.0
+
+### Major Changes
+
+- alaki nago be man dige
+
 ## 17.0.0
 
 ### Major Changes

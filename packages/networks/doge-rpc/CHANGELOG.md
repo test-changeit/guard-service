@@ -1,5 +1,17 @@
 # @alakipalaki/doge-rpc
 
+## 3.0.0
+
+### Major Changes
+
+- alaki nago be man dige
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@18.0.0
+  - @alakipalaki/doge@6.0.0
+
 ## 2.0.0
 
 ### Major Changes
