@@ -1,5 +1,17 @@
 # @alakipalaki/evm-rpc
 
+## 5.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@17.0.0
+  - @alakipalaki/evm@11.0.0
+
 ## 4.0.5
 
 ### Patch Changes

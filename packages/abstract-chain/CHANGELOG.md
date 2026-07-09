@@ -1,5 +1,11 @@
 # @alakipalaki/abstract-chain
 
+## 17.0.0
+
+### Major Changes
+
+- alaki
+
 ## 16.0.1
 
 ### Patch Changes

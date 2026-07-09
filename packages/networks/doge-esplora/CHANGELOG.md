@@ -1,5 +1,17 @@
 # @alakipalaki/doge-esplora
 
+## 3.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@17.0.0
+  - @alakipalaki/doge@5.0.0
+
 ## 2.0.4
 
 ### Patch Changes

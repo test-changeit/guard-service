@@ -1,5 +1,17 @@
 # @alakipalaki/bitcoin-esplora
 
+## 6.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@17.0.0
+  - @alakipalaki/bitcoin@11.0.0
+
 ## 5.0.4
 
 ### Patch Changes

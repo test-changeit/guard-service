@@ -1,5 +1,17 @@
 # @alakipalaki/firo-rpc
 
+## 1.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@17.0.0
+  - @alakipalaki/firo@1.0.0
+
 ## 0.1.0
 
 ### Minor Changes

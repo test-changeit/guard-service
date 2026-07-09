@@ -1,5 +1,36 @@
 # guard-service
 
+## 11.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@17.0.0
+  - @alakipalaki/binance@5.0.0
+  - @alakipalaki/bitcoin@11.0.0
+  - @alakipalaki/bitcoin-runes@5.0.0
+  - @alakipalaki/cardano@17.0.0
+  - @alakipalaki/doge@5.0.0
+  - @alakipalaki/ergo@15.0.0
+  - @alakipalaki/ethereum@5.0.0
+  - @alakipalaki/evm@11.0.0
+  - @alakipalaki/firo@1.0.0
+  - @alakipalaki/bitcoin-esplora@6.0.0
+  - @alakipalaki/bitcoin-runes-rpc@3.0.0
+  - @alakipalaki/cardano-blockfrost-network@11.0.0
+  - @alakipalaki/cardano-koios-network@14.0.0
+  - @alakipalaki/doge-blockcypher@2.0.0
+  - @alakipalaki/doge-esplora@3.0.0
+  - @alakipalaki/doge-rpc@2.0.0
+  - @alakipalaki/ergo-explorer-network@11.0.0
+  - @alakipalaki/ergo-node-network@11.0.0
+  - @alakipalaki/evm-rpc@5.0.0
+  - @alakipalaki/firo-rpc@1.0.0
+
 ## 10.0.0
 
 ### Major Changes

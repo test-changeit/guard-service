@@ -1,5 +1,16 @@
 # @alakipalaki/binance
 
+## 5.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/evm@11.0.0
+
 ## 4.0.1
 
 ### Patch Changes

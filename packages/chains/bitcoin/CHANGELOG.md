@@ -1,5 +1,16 @@
 # @alakipalaki/bitcoin
 
+## 11.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@17.0.0
+
 ## 10.0.1
 
 ### Patch Changes

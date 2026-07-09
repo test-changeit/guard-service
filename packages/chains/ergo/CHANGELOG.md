@@ -1,5 +1,16 @@
 # @alakipalaki/ergo
 
+## 15.0.0
+
+### Major Changes
+
+- alaki
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/abstract-chain@17.0.0
+
 ## 14.1.0
 
 ### Minor Changes
