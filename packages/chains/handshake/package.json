@@ -1,6 +1,6 @@
 {
   "name": "@alakipalaki/handshake",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "This project contains Handshake chain for Rosen-bridge",
   "keywords": [
     "rosen"
@@ -37,7 +37,7 @@
     "@rosen-bridge/json-bigint": "^1.1.0",
     "@rosen-bridge/rosen-extractor": "^12.1.0",
     "@rosen-bridge/tokens": "^6.0.2",
-    "@alakipalaki/abstract-chain": "^18.0.0",
+    "@alakipalaki/abstract-chain": "^19.0.0",
     "hsd": "^8.0.0"
   },
   "engines": {

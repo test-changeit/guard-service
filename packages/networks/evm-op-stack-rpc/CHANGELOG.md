@@ -1,5 +1,20 @@
 # @alakipalaki/evm-op-stack-rpc
 
+## 3.0.0
+
+### Major Changes
+
+- a
+- a
+
+### Patch Changes
+
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.0
+  - @alakipalaki/evm@13.0.0
+  - @alakipalaki/evm-rpc@7.0.0
+
 ## 2.0.0
 
 ### Major Changes

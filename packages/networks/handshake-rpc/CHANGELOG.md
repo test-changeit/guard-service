@@ -1,5 +1,19 @@
 # @alakipalaki/handshake-rpc
 
+## 3.0.0
+
+### Major Changes
+
+- a
+- a
+
+### Patch Changes
+
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.0
+  - @alakipalaki/handshake@3.0.0
+
 ## 2.0.0
 
 ### Major Changes

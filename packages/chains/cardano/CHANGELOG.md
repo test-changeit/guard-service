@@ -1,5 +1,18 @@
 # @alakipalaki/cardano
 
+## 19.0.0
+
+### Major Changes
+
+- a
+- a
+
+### Patch Changes
+
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.0
+
 ## 18.0.0
 
 ### Major Changes

@@ -1,5 +1,19 @@
 # @alakipalaki/bitcoin-runes
 
+## 7.0.0
+
+### Major Changes
+
+- a
+- a
+
+### Patch Changes
+
+- Update dependencies
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.0
+  - @alakipalaki/bitcoin@13.0.0
+
 ## 6.0.0
 
 ### Major Changes

@@ -1,5 +1,12 @@
 # @alakipalaki/abstract-chain
 
+## 19.0.0
+
+### Major Changes
+
+- a
+- a
+
 ## 18.0.0
 
 ### Major Changes
