@@ -1,6 +1,6 @@
 {
   "name": "@alakipalaki/bitcoin-runes",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "this project contains Runes protocol of Bitcoin chain for Rosen-bridge",
   "keywords": [
     "rosen"
@@ -38,8 +38,8 @@
     "@rosen-bridge/json-bigint": "^1.1.0",
     "@rosen-bridge/rosen-extractor": "^12.1.0",
     "@rosen-bridge/tokens": "^6.0.2",
-    "@alakipalaki/abstract-chain": "^19.0.0",
-    "@alakipalaki/bitcoin": "^13.0.0",
+    "@alakipalaki/abstract-chain": "^19.0.1",
+    "@alakipalaki/bitcoin": "^13.0.1",
     "bitcoinjs-lib": "^6.1.5"
   },
   "engines": {

@@ -1,5 +1,33 @@
 # guard-service
 
+## 13.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.1
+  - @alakipalaki/binance@7.0.1
+  - @alakipalaki/bitcoin@13.0.1
+  - @alakipalaki/bitcoin-runes@7.0.1
+  - @alakipalaki/cardano@19.0.1
+  - @alakipalaki/doge@7.0.1
+  - @alakipalaki/ergo@17.0.1
+  - @alakipalaki/ethereum@7.0.1
+  - @alakipalaki/evm@13.0.1
+  - @alakipalaki/firo@3.0.1
+  - @alakipalaki/bitcoin-esplora@8.0.1
+  - @alakipalaki/bitcoin-runes-rpc@5.0.1
+  - @alakipalaki/cardano-blockfrost-network@13.0.1
+  - @alakipalaki/cardano-koios-network@16.0.1
+  - @alakipalaki/doge-blockcypher@4.0.1
+  - @alakipalaki/doge-esplora@5.0.1
+  - @alakipalaki/doge-rpc@4.0.1
+  - @alakipalaki/ergo-explorer-network@13.0.1
+  - @alakipalaki/ergo-node-network@13.0.1
+  - @alakipalaki/evm-rpc@7.0.1
+  - @alakipalaki/firo-rpc@3.0.1
+
 ## 13.0.0
 
 ### Major Changes

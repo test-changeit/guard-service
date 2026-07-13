@@ -1,5 +1,14 @@
 # @alakipalaki/cardano-koios-network
 
+## 16.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.1
+  - @alakipalaki/cardano@19.0.1
+
 ## 16.0.0
 
 ### Major Changes

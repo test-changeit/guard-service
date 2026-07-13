@@ -1,5 +1,13 @@
 # @alakipalaki/handshake
 
+## 3.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.1
+
 ## 3.0.0
 
 ### Major Changes

@@ -1,5 +1,14 @@
 # @alakipalaki/ergo-explorer-network
 
+## 13.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.1
+  - @alakipalaki/ergo@17.0.1
+
 ## 13.0.0
 
 ### Major Changes

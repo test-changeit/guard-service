@@ -1,5 +1,14 @@
 # @alakipalaki/doge-rpc
 
+## 4.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.1
+  - @alakipalaki/doge@7.0.1
+
 ## 4.0.0
 
 ### Major Changes

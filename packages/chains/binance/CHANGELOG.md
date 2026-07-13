@@ -1,5 +1,13 @@
 # @alakipalaki/binance
 
+## 7.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/evm@13.0.1
+
 ## 7.0.0
 
 ### Major Changes

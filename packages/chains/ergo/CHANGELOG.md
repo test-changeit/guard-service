@@ -1,5 +1,13 @@
 # @alakipalaki/ergo
 
+## 17.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.1
+
 ## 17.0.0
 
 ### Major Changes

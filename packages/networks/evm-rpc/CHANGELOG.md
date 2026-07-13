@@ -1,5 +1,14 @@
 # @alakipalaki/evm-rpc
 
+## 7.0.1
+
+### Patch Changes
+
+- a
+- Update dependencies
+  - @alakipalaki/abstract-chain@19.0.1
+  - @alakipalaki/evm@13.0.1
+
 ## 7.0.0
 
 ### Major Changes
