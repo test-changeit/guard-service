@@ -54,6 +54,7 @@ jobs:
           npx changeset status --since=origin/dev
 
       - name: Package Release
+        if: ${{ startsWith(github.event.head_commit.message, env.PUBLISH_PREFIX) && github.ref == 'refs/heads/dev' }}
         uses: test-changeit/operation/publish-package@dev
         with:
           type: 'release'
