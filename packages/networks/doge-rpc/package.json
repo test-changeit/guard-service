@@ -1,6 +1,6 @@
 {
   "name": "@alakipalaki/doge-rpc",
-  "version": "4.0.1",
+  "version": "4.1.0",
   "description": "A package to be used as network api provider for @alakipalaki/doge package using RPC API",
   "keywords": [
     "rosen"
@@ -34,8 +34,8 @@
   "dependencies": {
     "@rosen-bridge/abstract-logger": "^4.0.0",
     "@rosen-bridge/json-bigint": "^1.1.0",
-    "@alakipalaki/abstract-chain": "^19.0.1",
-    "@alakipalaki/doge": "^7.0.1",
+    "@alakipalaki/abstract-chain": "^19.1.0",
+    "@alakipalaki/doge": "^7.1.0",
     "@rosen-clients/rate-limited-axios": "^2.0.1",
     "bitcoinjs-lib": "^6.1.5"
   },

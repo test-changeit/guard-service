@@ -1,0 +1,119 @@
+🦋  info npm info @alakipalaki/abstract-chain
+🦋  info npm info @alakipalaki/binance
+🦋  info npm info @alakipalaki/bitcoin
+🦋  info npm info @alakipalaki/bitcoin-runes
+🦋  info npm info @alakipalaki/cardano
+🦋  info npm info @alakipalaki/doge
+🦋  info npm info @alakipalaki/ergo
+🦋  info npm info @alakipalaki/ethereum
+🦋  info npm info @alakipalaki/evm
+🦋  info npm info @alakipalaki/firo
+🦋  info npm info @alakipalaki/handshake
+🦋  info npm info @alakipalaki/bitcoin-esplora
+🦋  info npm info @alakipalaki/bitcoin-runes-rpc
+🦋  info npm info @alakipalaki/cardano-blockfrost-network
+🦋  info npm info @alakipalaki/cardano-koios-network
+🦋  info npm info @alakipalaki/doge-blockcypher
+🦋  info npm info @alakipalaki/doge-esplora
+🦋  info npm info @alakipalaki/doge-rpc
+🦋  info npm info @alakipalaki/ergo-explorer-network
+🦋  info npm info @alakipalaki/ergo-node-network
+🦋  info npm info @alakipalaki/evm-rpc
+🦋  info npm info @alakipalaki/firo-rpc
+🦋  info npm info @alakipalaki/handshake-rpc
+🦋  info @alakipalaki/abstract-chain is being published because our local version (19.0.1) has not been published on npm
+🦋  info @alakipalaki/binance is being published because our local version (7.0.1) has not been published on npm
+🦋  info @alakipalaki/bitcoin is being published because our local version (13.0.1) has not been published on npm
+🦋  info @alakipalaki/bitcoin-runes is being published because our local version (7.0.1) has not been published on npm
+🦋  info @alakipalaki/cardano is being published because our local version (19.0.1) has not been published on npm
+🦋  info @alakipalaki/doge is being published because our local version (7.0.1) has not been published on npm
+🦋  info @alakipalaki/ergo is being published because our local version (17.0.1) has not been published on npm
+🦋  info @alakipalaki/ethereum is being published because our local version (7.0.1) has not been published on npm
+🦋  info @alakipalaki/evm is being published because our local version (13.0.1) has not been published on npm
+🦋  info @alakipalaki/firo is being published because our local version (3.0.1) has not been published on npm
+🦋  info @alakipalaki/handshake is being published because our local version (3.0.1) has not been published on npm
+🦋  info @alakipalaki/bitcoin-esplora is being published because our local version (8.0.1) has not been published on npm
+🦋  info @alakipalaki/bitcoin-runes-rpc is being published because our local version (5.0.1) has not been published on npm
+🦋  info @alakipalaki/cardano-blockfrost-network is being published because our local version (13.0.1) has not been published on npm
+🦋  info @alakipalaki/cardano-koios-network is being published because our local version (16.0.1) has not been published on npm
+🦋  info @alakipalaki/doge-blockcypher is being published because our local version (4.0.1) has not been published on npm
+🦋  info @alakipalaki/doge-esplora is being published because our local version (5.0.1) has not been published on npm
+🦋  info @alakipalaki/doge-rpc is being published because our local version (4.0.1) has not been published on npm
+🦋  info @alakipalaki/ergo-explorer-network is being published because our local version (13.0.1) has not been published on npm
+🦋  info @alakipalaki/ergo-node-network is being published because our local version (13.0.1) has not been published on npm
+🦋  info @alakipalaki/evm-rpc is being published because our local version (7.0.1) has not been published on npm
+🦋  info @alakipalaki/firo-rpc is being published because our local version (3.0.1) has not been published on npm
+🦋  info @alakipalaki/handshake-rpc is being published because our local version (3.0.1) has not been published on npm
+🦋  info Publishing "@alakipalaki/abstract-chain" at "19.0.1"
+🦋  info Publishing "@alakipalaki/binance" at "7.0.1"
+🦋  info Publishing "@alakipalaki/bitcoin" at "13.0.1"
+🦋  info Publishing "@alakipalaki/bitcoin-runes" at "7.0.1"
+🦋  info Publishing "@alakipalaki/cardano" at "19.0.1"
+🦋  info Publishing "@alakipalaki/doge" at "7.0.1"
+🦋  info Publishing "@alakipalaki/ergo" at "17.0.1"
+🦋  info Publishing "@alakipalaki/ethereum" at "7.0.1"
+🦋  info Publishing "@alakipalaki/evm" at "13.0.1"
+🦋  info Publishing "@alakipalaki/firo" at "3.0.1"
+🦋  info Publishing "@alakipalaki/handshake" at "3.0.1"
+🦋  info Publishing "@alakipalaki/bitcoin-esplora" at "8.0.1"
+🦋  info Publishing "@alakipalaki/bitcoin-runes-rpc" at "5.0.1"
+🦋  info Publishing "@alakipalaki/cardano-blockfrost-network" at "13.0.1"
+🦋  info Publishing "@alakipalaki/cardano-koios-network" at "16.0.1"
+🦋  info Publishing "@alakipalaki/doge-blockcypher" at "4.0.1"
+🦋  info Publishing "@alakipalaki/doge-esplora" at "5.0.1"
+🦋  info Publishing "@alakipalaki/doge-rpc" at "4.0.1"
+🦋  info Publishing "@alakipalaki/ergo-explorer-network" at "13.0.1"
+🦋  info Publishing "@alakipalaki/ergo-node-network" at "13.0.1"
+🦋  info Publishing "@alakipalaki/evm-rpc" at "7.0.1"
+🦋  info Publishing "@alakipalaki/firo-rpc" at "3.0.1"
+🦋  info Publishing "@alakipalaki/handshake-rpc" at "3.0.1"
+🦋  info This operation requires a one-time password from your authenticator.
+[?25l[36m🦋 [39m [1mEnter one-time password:[22m [2m›[22m [46m[30m[30m [39m[30m[39m[49m[1D[?25l[2K[1G[36m🦋 [39m [1mEnter one-time password:[22m [2m›[22m 6[46m[30m[30m [39m[30m[39m[49m[?25l[2K[1G[36m🦋 [39m [1mEnter one-time password:[22m [2m›[22m 68[46m[30m[30m [39m[30m[39m[49m[?25l[2K[1G[36m🦋 [39m [1mEnter one-time password:[22m [2m›[22m 681[46m[30m[30m [39m[30m[39m[49m[?25l[2K[1G[36m🦋 [39m [1mEnter one-time password:[22m [2m›[22m 6818[46m[30m[30m [39m[30m[39m[49m[?25l[2K[1G[36m🦋 [39m [1mEnter one-time password:[22m [2m›[22m 68188[46m[30m[30m [39m[30m[39m[49m[?25l[2K[1G[36m🦋 [39m [1mEnter one-time password:[22m [2m›[22m 681884[46m[30m[30m [39m[30m[39m[49m[2K[1G[32m🦋 [39m [1mEnter one-time password:[22m [2m·[22m [32m681884[39m
+[?25h[?25h[?25h[?25h[?25h[?25h[?25h🦋  success packages published successfully:
+🦋  @alakipalaki/abstract-chain@19.0.1
+🦋  @alakipalaki/binance@7.0.1
+🦋  @alakipalaki/bitcoin@13.0.1
+🦋  @alakipalaki/bitcoin-runes@7.0.1
+🦋  @alakipalaki/cardano@19.0.1
+🦋  @alakipalaki/doge@7.0.1
+🦋  @alakipalaki/ergo@17.0.1
+🦋  @alakipalaki/ethereum@7.0.1
+🦋  @alakipalaki/evm@13.0.1
+🦋  @alakipalaki/firo@3.0.1
+🦋  @alakipalaki/handshake@3.0.1
+🦋  @alakipalaki/bitcoin-esplora@8.0.1
+🦋  @alakipalaki/bitcoin-runes-rpc@5.0.1
+🦋  @alakipalaki/cardano-blockfrost-network@13.0.1
+🦋  @alakipalaki/cardano-koios-network@16.0.1
+🦋  @alakipalaki/doge-blockcypher@4.0.1
+🦋  @alakipalaki/doge-esplora@5.0.1
+🦋  @alakipalaki/doge-rpc@4.0.1
+🦋  @alakipalaki/ergo-explorer-network@13.0.1
+🦋  @alakipalaki/ergo-node-network@13.0.1
+🦋  @alakipalaki/evm-rpc@7.0.1
+🦋  @alakipalaki/firo-rpc@3.0.1
+🦋  @alakipalaki/handshake-rpc@3.0.1
+🦋  Creating git tags...
+🦋  New tag:  @alakipalaki/abstract-chain@19.0.1
+🦋  New tag:  @alakipalaki/binance@7.0.1
+🦋  New tag:  @alakipalaki/bitcoin@13.0.1
+🦋  New tag:  @alakipalaki/bitcoin-runes@7.0.1
+🦋  New tag:  @alakipalaki/cardano@19.0.1
+🦋  New tag:  @alakipalaki/doge@7.0.1
+🦋  New tag:  @alakipalaki/ergo@17.0.1
+🦋  New tag:  @alakipalaki/ethereum@7.0.1
+🦋  New tag:  @alakipalaki/evm@13.0.1
+🦋  New tag:  @alakipalaki/firo@3.0.1
+🦋  New tag:  @alakipalaki/handshake@3.0.1
+🦋  New tag:  @alakipalaki/bitcoin-esplora@8.0.1
+🦋  New tag:  @alakipalaki/bitcoin-runes-rpc@5.0.1
+🦋  New tag:  @alakipalaki/cardano-blockfrost-network@13.0.1
+🦋  New tag:  @alakipalaki/cardano-koios-network@16.0.1
+🦋  New tag:  @alakipalaki/doge-blockcypher@4.0.1
+🦋  New tag:  @alakipalaki/doge-esplora@5.0.1
+🦋  New tag:  @alakipalaki/doge-rpc@4.0.1
+🦋  New tag:  @alakipalaki/ergo-explorer-network@13.0.1
+🦋  New tag:  @alakipalaki/ergo-node-network@13.0.1
+🦋  New tag:  @alakipalaki/evm-rpc@7.0.1
+🦋  New tag:  @alakipalaki/firo-rpc@3.0.1
+🦋  New tag:  @alakipalaki/handshake-rpc@3.0.1

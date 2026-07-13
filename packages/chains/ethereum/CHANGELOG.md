@@ -1,5 +1,16 @@
 # @alakipalaki/ethereum
 
+## 7.1.0
+
+### Minor Changes
+
+- test
+
+### Patch Changes
+
+- Update dependencies
+  - @alakipalaki/evm@13.1.0
+
 ## 7.0.1
 
 ### Patch Changes
